@@ -1,0 +1,10 @@
+.env
+build
+node_modules
+
+data/*.js
+
+report.json
+report.json.html
+
+*.dump

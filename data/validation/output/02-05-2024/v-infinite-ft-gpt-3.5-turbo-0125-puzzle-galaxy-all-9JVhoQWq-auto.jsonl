@@ -1,0 +1,1000 @@
+{"input":"surf temple piranha dew","output":"Piranha","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"sandal shark cronus","output":"Shark","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"lift truck bomb","output":"Forklift","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"rock skipper honey","output":"Honeycomb","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"crocodile tractor swamp engine","output":"Swamp Tractor","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"penguin cake lagoon","output":"Penguin","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dust pan lifeboat","output":"Life Preserver","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"dark matter muddy teapot","output":"Muddy Teapot","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"sand flytrap sharkquake","output":"Shark","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tar lighthouse","output":"beacon","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"carbon monoxide john deere","output":"tractor","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"dust crocodile hydroelectricity","output":"Dust Crocodile","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"lego flytrap tea table","output":"Lego Flytrap","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"fishing jet kitesurfing","output":"Kitesurfing","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"crocopotamus surfing santa","output":"Santa Claws","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"manure tea typhoon","output":"Manure Typhoon","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"pod racer great wall of titanado","output":"Pod Racer","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"space titanic leviathan","output":"Space Leviathan","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"rainbow jet snowpiercer","output":"Snowpiercer","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"golem train rock tea","output":"Golem","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"birdhouse lifebuoy","output":"Birdhouse","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ironjack fata morgana","output":"Ironjack","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"crocofish christmas tree farm","output":"Crocofish","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"pengull crabtrain","output":"Pengull","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"undefined ice shark","output":"ice shark","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"crabzilla lego dragon","output":"Crabzilla","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"ninjago congestion","output":"Traffic","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"patrick steamlands","output":"Patrick Star","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"crocomush yoga dragon","output":"Crocomush","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"venusian mountain dewquake","output":"Mountain Dew","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"hero fjord golem","output":"Thor","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"delta force puffer truck","output":"Puffer Truck","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"iron lego sandnado","output":"Iron Man","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"knight mr. potato head","output":"mr. potato knight","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"pirate helicopter toll","output":"Pirate Helicopter","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"lightning fish pearl harbor","output":"Kamikaze","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"mash flying sponges","output":"Spongebob","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"plantaea windu","output":"Mace Windu","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"beluga muddy teapot","output":"Muddy Teapot","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"thorsday iced angel","output":"Thor","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"skydiving chimera","output":"Chimera","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"seacar deforestation","output":"Seacar","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"amphibious vehicle icelandic lawnmower","output":"Icelandic Amphibious Vehicle","usage":{"prompt_tokens":64,"completion_tokens":7,"total_tokens":71}}
+{"input":"iron trawler venus fly trap","output":"Iron Man","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"jar jar binks spartan","output":"Jar Jar Spartan","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"fishing party mushroom cloud","output":"Nuclear Party","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"glass raft luke","output":"Skywalker","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ender dragon amber venus flytrap","output":"Ender Dragon","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"ice tunnel shark","output":"Ice Shark","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"joke mountain reef","output":"Joke Reef","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sarcophagus pipe","output":"Mummy","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tea coral potato","output":"Coral Tea","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"sushi bar telescope","output":"Sushi","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"rainbow jet geyser","output":"Rainbow Geyser","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"swamp skimmer jet tank","output":"Swamp Tank","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"dirt bike cthulhu","output":"cthulhu bike","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"ghost lawnmower dragon egg","output":"Dragon","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"waterwheel prickly","output":"Cactus","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"space lily saturn flytrap","output":"Saturn Flytrap","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"treasure light bulb","output":"genie","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"sunscreen vegetarian","output":"Vegan","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"angel tree pig","output":"Pig Angel","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"stonecar sand tea","output":"Sandwich","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"magneto pompeii","output":"Pompeii","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sandicorn king tut","output":"Sandicorn","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"iron sandwich crocodile station","output":"Iron Crocodile","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"turtle wax truck ski","output":"Turtle Wax Truck","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"mountain scope nympho","output":"Mountain Lion","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dust nautilus venus","output":"Venus","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"spangel batmobile","output":"Batgirl","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"penguin shark thunder cactus","output":"Penguin Shark","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"dust squid sand locomotive","output":"Sand Squid","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"amphicar tea cutthroat trout","output":"Amphicar","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"chairplane wind turbine","output":"Chairplane","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"rainbow hulk sphinx flytrap","output":"Rainbow Sphinx","usage":{"prompt_tokens":61,"completion_tokens":3,"total_tokens":64}}
+{"input":"space rally sketch","output":"Space Race","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"rainbow rally speed","output":"Rainbow Dash","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"macaroon cleancraft","output":"Macaron","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"radar frozen","output":"Ice Cream","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"extinction tugboat","output":"Dinosaur","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"gorge flytrap fighter","output":"Venus Flytrap","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"cow iron maiden","output":"cow maiden","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"jetsuck terror tank","output":"Terror Tank","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"creeper tear","output":"creeper","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"paper surfer chimera","output":"Chimera","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"at-at sand surfing","output":"Sandcrawler","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"great wall of dust moonwalk","output":"Michael Jackson","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"piranha tank thunder truck","output":"Piranha Tank","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sand bridge perfume","output":"Sandcastle","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"hawaiian barbecue","output":"luau","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"zika mountain scope","output":"Zika Scope","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"space mangrove chinese submarine","output":"Chinese Mangrove Submarine","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"cookie angel trap","output":"Cookie Monster","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"squirrelmobile ultrasonic","output":"Squirrel","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tree hugger titanic mudweed","output":"Mudweed","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"blowgun london","output":"sherlock holmes","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"stew engine mountain dewquake","output":"Mountain Dew","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"mountain parking yellowstone fever","output":"Yellowstone","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"hiccup amphibious house","output":"Hiccup","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"palm whale mars tornado","output":"Palm Tornado","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"gasoline rally","output":"fire","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"ghost trawler mountain dewd","output":"Mountain Dewd","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"sucky icelandic jetea","output":"Icelandic Jetea","usage":{"prompt_tokens":61,"completion_tokens":6,"total_tokens":67}}
+{"input":"fishing lodge japan","output":"Ryokan","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"construction mountain oasis","output":"Pyramid","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"roman crystal venus flytrap","output":"Venus","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"glass shark dragon truck","output":"Dragon Truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"tony hawk eternity","output":"Skateboarding","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hand vulture","output":"claw","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"crab nebula rhea","output":"Crab","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"bulletboard spyglass","output":"Spy","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"fry swamp genie","output":"Fried Genie","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"chopsticks dust mite","output":"Dust Bunny","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"sea anemone jet yeti","output":"Jet Anemone","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"snow parking forestnado","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"space venus train","output":"Space Train","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"flying chair america","output":"Air Force One","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"surfing god tree pose","output":"Yoga","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ghost racer surge","output":"Ghost Rider","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"snow paradise mothman","output":"Mothman","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hulkicorn siren","output":"Hulkicorn","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"spyglass flying racecar","output":"Flying Racecar","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"glass turtle vase","output":"Turtle","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"pork chop pork","output":"Chop","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"terrapin snow shark","output":"Snow Terrapin","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"piranha wreck","output":"Piranha","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"bermuda triangle funnel weed","output":"Bermuda Funnel","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"iron angel light","output":"Iron Man","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"turtle flytrap bogland","output":"Bogland Flytrap","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"coast guard sea dandelion","output":"Sea Dandelion","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"mug rainbow train","output":"Rainbow Mug","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"lunatic frogurt","output":"Frogurt","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"trolley wish","output":"Genie","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"tidy sand yacht","output":"Sandcastle","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mountainboard janitor","output":"Mountainboard","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"woodchuck fire plow","output":"Fire Truck","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"haybale shrimp","output":"Haybale","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"flying ghost himalayas","output":"Yeti","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"dragoncorn pyramids","output":"Dragon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"mountain crocodile amphibious steamroller","output":"Mountain Lion","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"buzzsaw sandcrab","output":"Sandcastle","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"osama bin laden space eel","output":"Space Osama","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"wolfman punchline","output":"Werewolf","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"steamfrog flying trap","output":"Flying Frog","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"wereplant jack","output":"Jack O'Lantern","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"glass wall of china mudpot","output":"Great Wall Of China","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sandalstorm darth vader","output":"Sandalstorm","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"online shopping toxic","output":"Scam","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"jack and the beanstalk amber fish","output":"Golden Egg","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"glasserboarding steam yoga","output":"Steam Yoga","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ice window bermuda triangle","output":"Iceberg","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"boatman slap","output":"Ferryman","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fjord golem tea surfer","output":"Tea Golem","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"tornadojet track","output":"Tornado","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"pig ness monster mario kart","output":"Ness Monster","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"maelstrom rusty","output":"Rusty Maelstrom","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"electric shock super volcano","output":"super shock","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"piranha flytrap ore","output":"Piranha Plant","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"dust plant steamgator","output":"Steamgator","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"mudpot jormungandr","output":"Midgard","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"teatitan raindeer","output":"Raindeer","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"draco sand buggy","output":"Sand Buggy","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"muddy mushroom tankfly","output":"Tankfly","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dragonfire sand","output":"glass","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"moon rock fire hydrant","output":"Moon Hydrant","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"wolfman rose flytrap","output":"Wolfman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"crocodile station sand crocodile","output":"Sand Station","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"salmonboarder pixie","output":"Salmon","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"blimp sandbar","output":"crash","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"great wall of minecraft prickly heat","output":"Great Wall Of China","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"iron dome steam train","output":"Iron Horse","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"paper cut ore","output":"Paper Ore","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"sleeping bag drag","output":"Sleeping Dragon","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"barbecue miracle","output":"Loaves And Fishes","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"tanktrain cataclysm","output":"Tank","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"crystal skull paper trap","output":"Paper Skull","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"amazon lily sandalboard","output":"Sandal","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"amphibious crocodile cinderblock","output":"Crocodile","usage":{"prompt_tokens":62,"completion_tokens":2,"total_tokens":64}}
+{"input":"platform teapot truck","output":"Teapot Truck","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"seatractor sand phoenix","output":"Sand Tractor","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"scraper snow raft","output":"Snowmobile","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"cocotitanado adobepunk","output":"Adobepunk","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"captain nemo’s ghost piranha kite","output":"Piranha","usage":{"prompt_tokens":63,"completion_tokens":3,"total_tokens":66}}
+{"input":"bog surfing hay fever","output":"Hay Fever","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tea board submarine","output":"Submarine Sandwich","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"leg bog tea","output":"Leg Of Tea","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"delta tractor sand lily","output":"Sand Tractor","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"ghost plane stonehenge","output":"Stonehenge","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"werewolf surfer tractor","output":"Werewolf Tractor","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"piranha jet ski circus","output":"Piranha","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"wereangel bakery","output":"Angel","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"crocodile plant shark tank","output":"Shark","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"st. patrick’s day slate","output":"Leprechaun","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"pork mountain dude","output":"Bacon","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"werepot rustyoga","output":"Rustyoga","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hot tub solar flare","output":"solar hot tub","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"false alarm sphinxweed","output":"Sphinx","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"crocodile crossing pandora","output":"Crocodile","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"demolition derby pangaea","output":"Pangaea","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"glass nessie pride","output":"Loch Ness Monster","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"sneeviathan nirvana","output":"Sneeviathan","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"sphinx pose satellite","output":"Satellite Poseidon","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"gin dirt","output":"mud","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"steamskipper were-leviathan","output":"Steam Leviathan","usage":{"prompt_tokens":62,"completion_tokens":3,"total_tokens":65}}
+{"input":"dust whale honeybee","output":"Dust Bunny","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"spacecraft eel","output":"space eel","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"warplane traffic","output":"Air Traffic Control","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"tank cactus piranha brick","output":"Tank","usage":{"prompt_tokens":60,"completion_tokens":1,"total_tokens":61}}
+{"input":"pane beluga","output":"Caviar","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"om cannon","output":"cannonball","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"phoenix palm sink","output":"Phoenix Sink","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"amphibious ferry tsunamibuggy","output":"Tsunamibuggy","usage":{"prompt_tokens":63,"completion_tokens":5,"total_tokens":68}}
+{"input":"fortress iced tea","output":"Iced Fortress","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"mesa power plant","output":"nuclear power plant","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"christmas island fire flower","output":"Fire Island","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"space flytrap big bang","output":"Space Flytrap","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"lift fjord ghost","output":"Ghost Ship","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"surfing noah firefighter","output":"Firefighter","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"uranus flytrap amphibious tank","output":"Uranus Flytrap","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"skateboarding turtle pain","output":"Teenage Mutant Ninja Turtle","usage":{"prompt_tokens":58,"completion_tokens":6,"total_tokens":64}}
+{"input":"car ferry poison","output":"Car Ferry","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fishing jet mow","output":"Fishing Jet Ski","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"venus williams sushi cake","output":"Sushi","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"rainbow mudnado surfing piranha plant","output":"Rainbow Mudnado","usage":{"prompt_tokens":63,"completion_tokens":5,"total_tokens":68}}
+{"input":"sneezing space sandwich","output":"Astronaut","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"insomnia space kelp","output":"Space Insomnia","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"iron ness dragon flower","output":"Iron Dragon","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"speed teacup","output":"racecar","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ice punch medusa","output":"Ice Medusa","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"chair praying mantis","output":"Praying Mantis","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"space rainforest tea wall","output":"Space Tea","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"forestnado space flower","output":"Space Forestnado","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"hell batmobile","output":"batman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"amphibious sea dragon mad hatter","output":"Mad Hatter","usage":{"prompt_tokens":62,"completion_tokens":3,"total_tokens":65}}
+{"input":"werecoconut unicorn surfer","output":"Werecoconut","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"snowle muddy","output":"Snowman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ghost shark greenhouse","output":"Ghost","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"snowturtle carnival","output":"Snowman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"luau fishing","output":"Hawaiian","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"pancakes clean sand","output":"Pancakes","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"axe rainbow shark","output":"Rainbow Shark","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"mississippi exhaust","output":"smog","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"tea nessie glass rose","output":"Nessie","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"jacks river gargoyle","output":"Gargoyle","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"olympian rainbow car","output":"Rainbow Car","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"super squirrel birthstone","output":"Super Squirrel","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust bee mortar","output":"Beehive","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"online shopping combine","output":"Amazon","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"penguin monster rose","output":"Penguin Monster","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dragon tractor steamghost","output":"Steamdragon","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ironing prism","output":"Iron","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"pigsty whirlpool","output":"Pigsty","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"emperor penguin mud tire","output":"Mud Emperor","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"monster truck nessie tea shark","output":"Monster Truck Nessie","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"black hole flytrap stealth bomber","output":"Stealth Black Hole Flytrap","usage":{"prompt_tokens":59,"completion_tokens":6,"total_tokens":65}}
+{"input":"ant-man krampus","output":"Ant-Krampus","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"port snake train","output":"Port Train","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"were-tractor market","output":"Were-Tractor","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"iron trawler scribblenauts","output":"Iron Man","usage":{"prompt_tokens":63,"completion_tokens":2,"total_tokens":65}}
+{"input":"electric log flying cactrain","output":"Flying Cactrain","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"cactus whale corndog","output":"Corndog","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"werewhale sushitic","output":"Sushi","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"cake flowerpot","output":"flowercake","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire ball piranha dew","output":"Fire Piranha","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"honey potato charm","output":"Sweet Potato","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"legojack snow nymph","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"thomas wooden space ship","output":"Thomas The Tank Engine","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"pirates of the caribbean map","output":"treasure map","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"wood shark icelandic venus flytrap","output":"Icelandic Shark","usage":{"prompt_tokens":62,"completion_tokens":4,"total_tokens":66}}
+{"input":"coconut milk potatoboard","output":"Coconut","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"skate tank trophy","output":"Skate Tank","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"shrine dandelion surfer","output":"Dandelion","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"glass wreck mountain rally","output":"Mountain Dew","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mudskipper rocket troll buggy","output":"Rocket Troll Buggy","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"chupacabra tea plant","output":"Chupacabra Tea","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"glass bridge sea king","output":"Sea Bridge","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"werewolf truck solar teapot","output":"Werewolf Truck","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"surfing weed subphoenix","output":"Subphoenix","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"saltboard rocket squirrel","output":"Rocket Squirrel","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"glasserboarding steamship","output":"Steamship","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"flying unicorn dust","output":"Pegasus","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dragonborn petrified wood","output":"Dragon","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"harpoon honey potato","output":"Honey Ham","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"oolong mushroom","output":"tea","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"mountain dew wall f1","output":"Mountain Dew","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"tiamat field","output":"dragon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"qui-gon jinn mountain dew shark","output":"Qui-Gon Jinn","usage":{"prompt_tokens":61,"completion_tokens":5,"total_tokens":66}}
+{"input":"exhaustion coral wine","output":"Coral Wine","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"neptune mangrove","output":"seahorse","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"leafjam apocalego","output":"Leafjam Apocalego","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"electric space fish creeper","output":"Electric Creeper","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"shrek transcontinental railroad","output":"Shrek 2","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"mangrove fly dust shark","output":"Dust Shark","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"piranha tank coyote","output":"Coyote","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"seahorse pose lung cancer","output":"Yoga","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"floatplane lawn shark","output":"Lawn Shark","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sleep christmas unicorn","output":"Dream","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"mjolnir matterhorn","output":"thor","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"fry dust bowl","output":"fry bread","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"chandelier stink","output":"fart","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"turtle tea sandwish","output":"Turtle Sandwich","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"drain dune fairy","output":"Sand Fairy","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"cutthroat trout poltergeist","output":"Cutthroat","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"golem truck tunnel of love","output":"Tunnel Of Love","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"prickly cactus steamland","output":"Steamland","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"clear helicopter plant","output":"Clear Plant","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"han solo piranha jetpack","output":"Piranha","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"hay parking captain hook","output":"Pirate","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"matcha trap tinkerbell","output":"Tinkerbell","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"fire fighter rainbow buggy","output":"Fire Truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"were-sponge lion","output":"Spongebob","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"fertile land crocopotamus","output":"Crocopodamus","usage":{"prompt_tokens":61,"completion_tokens":5,"total_tokens":66}}
+{"input":"mountain scope oak","output":"Telescope","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"seacough jupiter flytrap","output":"Seacough Jupiter Flytrap","usage":{"prompt_tokens":60,"completion_tokens":6,"total_tokens":66}}
+{"input":"statue of liberty skeetervac","output":"Skeetervac","usage":{"prompt_tokens":61,"completion_tokens":5,"total_tokens":66}}
+{"input":"ironing board moon truck","output":"Iron Truck","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"haywreck sparky","output":"Haywreck","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"builder tiki","output":"Tiki Hut","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"tunnel of fudge sunk","output":"Titanic","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"jar jar binks christmas car","output":"Jar Jar Binks","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"crocodile hunter fireplane","output":"Fireplane","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"s’more chameleon","output":"Chameleon","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"jump flying lily","output":"Flying Lily","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"cupboard fjord wall","output":"Cupboard","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"nympho pineapple","output":"Pineapple","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"penguin soup electric ice","output":"Penguin","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"lock ness monster mars rover","output":"Mars Monster","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"fire plane slow car","output":"Fire Truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"pengwoman mountain trap","output":"Pengwoman","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"cologne buddha","output":"perfume","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"temptation amber venus","output":"Amber Venus","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"coconut train meteor","output":"Coconut Meteor","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"mage jupiter","output":"zeus","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"buddha ship iron sponge","output":"Iron Buddha","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"chairplane smoke","output":"Chairplane","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"sand yacht barrier reef","output":"Sand Yacht","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"pikachu sphinx trout","output":"Pikachu","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"skimboarder mr. potato head","output":"Mr. Potato Head","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"iron shore skate zeus","output":"Iron Man","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"hacker steam hammer","output":"Steam Engine","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"yogatrack swamp salamander","output":"Yogatrack","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"mudicopter mad hatter","output":"Mad Hatter","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"rainbow stew iron wreck","output":"Iron Stew","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"icewine sushitic","output":"Sushi","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"steam tunnel buzz","output":"Steam Tunnel Buzz","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"amphicorn olympus","output":"Pegasus","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"pita piranha jet ski","output":"Piranha Jet Ski","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"ironflower tractor","output":"Irontractor","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"nascar rainbow dash","output":"Rainbow Dash","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"truckstop pancake","output":"Waffle","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"skidding junk","output":"Crash","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"matchacraft castle crashers","output":"Matchacraft","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"lantern titanic","output":"Titanic","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"beach party unicar","output":"Unicorn","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"pumpkin spice ice cream truck","output":"Pumpkin Spice Ice Cream","usage":{"prompt_tokens":60,"completion_tokens":6,"total_tokens":66}}
+{"input":"amazonite cuttlefish","output":"Mermaid","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"iron rocket prickly ice tea","output":"Iron Man","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"fairy tale delta","output":"Story","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"sweet lagoon","output":"candy","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"iron dragon space ark","output":"Iron Dragon","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fire squirrel mountain venus","output":"Venus","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"throne rebirth","output":"King","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"stone buddha dengue","output":"Dengue Buddha","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"rainbow mummy melting","output":"Rainbow","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"pirate racecar meteor truck","output":"Pirate Truck","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"space rainforest cuban","output":"Cuban Missile Crisis","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"mountain dewskipper smoke monster","output":"Smoke Monster","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"cactrainbow windshield wiper","output":"Cactrainbow","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"terminator don quixote","output":"Don Quixote","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"electric lizard spacex","output":"Dragon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"terminus space bee","output":"Space Bee","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"swamp wave rasta","output":"Swamp Rasta","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"snow pirate ship ice pot","output":"Ice Pirate Ship","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"cumulonimbus europe","output":"Thunderstorm","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"straw crop duster","output":"Crop Duster","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"rock surfing wasabi","output":"Wasabi","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"spawn surfing genie","output":"Surfing Genie","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"terracotta army matching","output":"China","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"migrant geothermal plant","output":"Migrant Worker","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"surfing cinder thundercrash","output":"Thundercrash","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"fairyland terrarium","output":"Fairy","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"blowgun ironmower","output":"Ironmower","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"dust plant monster train","output":"Dust Plant Monster","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"palm fly tanktrap","output":"Tank","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"cake pyramid","output":"wedding cake","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"lego venus flytrap mud cake","output":"Lego Mud Cake","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"s’more tomb","output":"Mummy","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"skin umbrella","output":"parasol","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"millennium falcon tease","output":"Chewbacca","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"space flytrap hawaiian jet","output":"Space Flytrap","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"surfing clay time bomb","output":"Surfing Clay","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"salmon cake spongebob","output":"Krabby Patty","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"mountain tesla sunny","output":"Solar Panel","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"piranha tree maitreya","output":"Buddha","usage":{"prompt_tokens":61,"completion_tokens":3,"total_tokens":64}}
+{"input":"alchemy dust gator","output":"Dust Gator","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"flying nautilus yellow tea","output":"Yellow Submarine","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"steamfish skate","output":"Steamfish","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"surfing yogi sage","output":"Surfing Sage","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"beach party lightsaber","output":"Jedi","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"flying stew steampunk flytrap","output":"Steampunk Flytrap","usage":{"prompt_tokens":61,"completion_tokens":5,"total_tokens":66}}
+{"input":"aloe express kaleidoscope","output":"Aloe Vera","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"potato fly blade","output":"French Fry","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"sand traffic sand tractor","output":"Sand Traffic Jam","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"iron funnel cake crocoboard","output":"Iron Crocoboard","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"acorn snake charmer","output":"Squirrel","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"mausoleum water ski","output":"Tomb Raider","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"leafjam snow mermaid","output":"Snow Mermaid","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"steamwork necklace","output":"Steamwork","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"sandtitanicado gas giant","output":"Sandtitanicado","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"mudman refrigerator","output":"Mud Refrigerator","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"steam noah piranha unicorn","output":"Steamboat","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"wooden helicopter tankwich","output":"Tank","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"fighter fish tea typhoon","output":"Tea Typhoon","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"saw pufferdragon","output":"Pufferdragon","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"invention loser","output":"patent","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"skateboard rocket snow bunny","output":"Snowboard","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"delta shark regatta","output":"Shark","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"sandlotus plantea","output":"Sandlotus","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"rampage mead","output":"Viking","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"sawfly surfing plant","output":"Surfing Plant","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"mountain dew sub fire fish","output":"Mountain Dew","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"iron buggy trollpocalypse","output":"Iron Man","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tea rally smoked trout","output":"Smoked Tea","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"crocobot sake","output":"Crocobot","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hadrian halo","output":"Angel","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"puddle jumping garden party","output":"Puddle Party","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"irish republican army war pig","output":"Pig Sinn Fein","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"iron lamp tissue","output":"Iron Man","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"hercules sand bee","output":"Sand Hercules","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"rainbow sandwich space sandwich","output":"Space Rainbow","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"seahorse mangrove glasses","output":"Seahorse","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"hail skimmer fish stick","output":"Fish Stick","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"driving school green tea","output":"Green Tea","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"sand cough junk","output":"Sandwich","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"boxing glove truckito","output":"Truckito","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"joga swamp nymph","output":"Swamp Thing","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"werefrog priest","output":"Werefrog","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"leprechaun trap rice","output":"Rice Krispies","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"owl dandelion island","output":"Owl Island","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"booty rainbowfish","output":"Pirate","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"jetta krill","output":"Volkswagen","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"stonefish fire tornado","output":"Firefish","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"iron stew glass dam","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"swamp genie pirate ship","output":"Pirate Genie","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"rainbow hulk cloud station","output":"Rainbow Hulk","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"swampboarding mta","output":"Swampboarding","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sunlight lotus","output":"sunflower","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"rainbow sushi hail","output":"Rainbow","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"junkyard windsurfing","output":"Windsurfing","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"snow lizard sharkquake","output":"Snow Shark","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"sirius iron mummy","output":"Iron Man","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"shakespeare mud buddha","output":"Mud Shakespeare","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"leprechaun truck rock","output":"Shamrock","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"dustbowl steam car","output":"Steam Engine","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"triangle wish","output":"pyramid","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dale earnhardt jr. steamlandslide","output":"Dale Earnhardt Sr.","usage":{"prompt_tokens":61,"completion_tokens":6,"total_tokens":67}}
+{"input":"lutefisk ice dragon","output":"Ice Dragon","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"amazon station cactus man","output":"Cactus Man","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"pumpkin spice latte coughing","output":"Pumpkin Spice Cough","usage":{"prompt_tokens":61,"completion_tokens":6,"total_tokens":67}}
+{"input":"wifi monster rally","output":"Monster Rally","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"salmonboard amphibious sea dragon","output":"Sea Dragon","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"mangrove viking shield","output":"Viking","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"iron cloud trash can","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"carnivorous traffic sand tractor","output":"Sand Tractor","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"pigcorn sand fairy","output":"Pigcorn","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"jet tea dark side","output":"Darth Vader","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"curse tantrum","output":"Curse","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"march hobo","output":"Tramp","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dam crystal","output":"diamond","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"saturnfish dust allergy","output":"Saturn","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"rip van winkle chai tea","output":"Sleepy Time Tea","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"leif sand fly","output":"Sandman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"surfing dragon mosque","output":"Dragon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"iron rocket electric salamander","output":"Iron Man","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"shroomboarding shark dam","output":"Shark","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"snorkel sinking ship","output":"Diver","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"halloween fire jet ski","output":"Ghost Rider","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"crab shark titanic leviathan","output":"Titanic","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"crockery narnia","output":"Tea Party","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"pearl harbor caduceus","output":"Medicine","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"lawn shark green energy","output":"Green Shark","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"sharkmas choo choo lawnmower","output":"Sharkmas Choo Choo","usage":{"prompt_tokens":63,"completion_tokens":7,"total_tokens":70}}
+{"input":"penguin monster hulkboard","output":"Hulk","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"steam jetpack starwreck","output":"Steam Jetpack","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"surf temple deforestation","output":"Surf Temple","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"cenote swamp uranus","output":"Cenote","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hail skimmer open","output":"Hail Skimmer","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"coconut lamp ghost plane","output":"Ghost Plane","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"snake plant fire viking","output":"Fire Snake","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"fish car prickly heat","output":"Pufferfish","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"matcha mangrove titanic oasis","output":"Matcha Titanic","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"glass snake lake","output":"glass lake","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"chevrolet mars bar","output":"Chevrolet Volt","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"iron bunny swampicorn","output":"Swampicorn","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"great wall of uranus sponicorn","output":"Sponicorn","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"sphinxweed chimney","output":"Sphinx","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"tornadoine wreckage","output":"Tornado","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ferris wheel swamp fly","output":"Swamp Fly","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"jet engine captain planet","output":"Captain Jet","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"skiboard space saguaro","output":"Space Skiboard","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"sandalwood submarine amphitruck","output":"Amphitruck","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"brown godzilla","output":"king kong","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"odin house","output":"valhalla","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"skull flat rock","output":"head","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"lightning bolt dock","output":"Thunderbolt","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"crocodile rocket tractor tire","output":"Rocket Tractor","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"titan truck puddle","output":"Titanic","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"corrosion sandworm","output":"Shai-Hulud","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"electric coconut dove","output":"Electric Dove","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"skinny carnage","output":"Venom","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"thunder fish pottery","output":"Amphora","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"fjord flytea tesla model s","output":"Tesla Model X","usage":{"prompt_tokens":62,"completion_tokens":3,"total_tokens":65}}
+{"input":"iron nile surfing nautilus","output":"Iron Man","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"iron turtle titanic carnivore","output":"Titanic","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"wasp comet","output":"wasp comet","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"amphibious steamroller snow matcha","output":"Snowman","usage":{"prompt_tokens":62,"completion_tokens":2,"total_tokens":64}}
+{"input":"mountain dewquake dragonfly","output":"Mountain Dewquake","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"abominable plant lagoon","output":"Swamp Thing","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"iron thing portal","output":"Iron Man","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain dew sub smokefish","output":"Mountain Dew","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"sandvik prickly fish","output":"Pufferfish","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"puffball cup","output":"Mushroom","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"unicorn train swamped","output":"Swampicorn","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"icelandic shark nemo","output":"Shark","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"dutch monster teacup","output":"Teapot","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"mosquito boarding crocodile plant","output":"Mosquito Plant","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"fjord lizard piranha venus","output":"Piranha","usage":{"prompt_tokens":62,"completion_tokens":3,"total_tokens":65}}
+{"input":"squirrelcorn twister","output":"Squirrelcorn","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"muddy waters molehill","output":"Mountain","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"space cactus pyramid","output":"Space Pyramid","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"cupcake icelandic funnel cake","output":"Icelandic Cupcake","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"punchline wetting","output":"Wetting Your Pants","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"turtle shell pirate submarine","output":"Pirate Submarine","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"dust fairy steam surf","output":"Dust Bunny","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"tusken raider cutthroat trout","output":"Tusken Trout","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"wheelchair burnt","output":"ashes","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"ups sneezy","output":"Sneezy","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dungeon bus","output":"prison bus","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"legoland amphibious monster truck","output":"Amphibious Monster Truck","usage":{"prompt_tokens":59,"completion_tokens":6,"total_tokens":65}}
+{"input":"iron curtain captain america","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"bedouin glassdrop","output":"Bedouin","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"dale haywire","output":"Dale Earnhardt","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"chainsaw flying cactus","output":"Flying Chainsaw","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"muddy water bamboo","output":"panda","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"flying broom peace","output":"Witch","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"man-eating plant monster","output":"man-eating plant","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"choppocalypse surf party","output":"Choppocalypse","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"pufferwhale fisherman","output":"Pufferfish","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"steam tidal wave carmummy","output":"Carmummy","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"skimmington village","output":"Riot","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"musketeer extinction","output":"D'Artagnan","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"lego plant dalai lama","output":"Dalai Lama","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"lemur aquaman","output":"Aqualemur","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"spartan sketch","output":"Leonidas","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"vacuum cleaner terrorist","output":"hoover","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mummyboard ferrytire","output":"Mummytire","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"lilyboard matcha tea","output":"Lily Tea","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"leafblower train sword","output":"Leafblower","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"steampunk jet sandtami","output":"Sandtami","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"glass tank ant","output":"Ant Farm","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"snowmaid hydra","output":"Snow Hydra","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"gunpowder snowbee","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"cleaning drunken monster truck","output":"Monster Truck","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"mountain vase piranha cube","output":"Piranha","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"jar jar seraph","output":"Jar Jar Binks","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"trick houseplant","output":"Venus Flytrap","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"seahorse with jetpack snowbee","output":"Snowbee","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"geysurfing anaphylaxis","output":"Geysurfing","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"sirius angel flytrap","output":"Sirius Black","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"marsboarding snow tire","output":"Snowboard","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"wereboat mummy tractor","output":"Mummy Tractor","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"challenger wind turbine","output":"wind challenger","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"flying cow soggy","output":"Soggy Cow","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"amberboard tsunamirrel","output":"Tsunamirrel","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"beef golf club","output":"steak","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"youtube swamp juice","output":"Swamp Juice","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"saguaro submarine laser","output":"Saguaro Submarine","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"snowturtle flatfish","output":"Snowflake","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"cactus pirate oasis","output":"Pirate","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"swamp zeus audrey ii","output":"Audrey III","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"amazonado rainbow golem","output":"Rainbow Golem","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"new york steam surfing","output":"steam punk","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"sharkasana car reef","output":"Shark Car","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"fail mango","output":"mango juice","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"queen tomb","output":"mummy","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"sandtitanic surfing race track","output":"Sandtitanic","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"killer bee choopper","output":"Killer Bee","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"potatotank sand fly","output":"Potatotank","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"flash mob space shuttle","output":"Space Mob","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"crystal ski surfing cloud","output":"Crystal Cloud","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"stroganoff scope","output":"Beef Stroganoff","usage":{"prompt_tokens":58,"completion_tokens":6,"total_tokens":64}}
+{"input":"sand phoenix aquavit","output":"Sand Phoenix","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"blowout terrarium","output":"Terrarium","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"open vine","output":"grape","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"steam castle boiling frog","output":"Boiling Castle","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"great wall of tatooine steam fish","output":"Great Wall Of China","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"iron prison sand lotus","output":"Iron Lotus","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"space race mountain dewwich","output":"Mountain Dew","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"hacker pineapple","output":"pineapple hacker","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"pencil plane moth","output":"Mothman","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"red spot steam train","output":"red train","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fire temple dishwasher","output":"Fire Temple","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fish house electric dune buggy","output":"Electric Fish","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"spongebob mudkip","output":"Mudkip","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"christmas shark pride","output":"Santa Shark","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"iron seahorse venusian","output":"Iron Seahorse","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"sphinx trap venusaur","output":"Venusphinx","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"cabin waters","output":"houseboat","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"yoga serpent mudsquirrel","output":"Mudserpent","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sand squid sandplane","output":"Sandplane","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"haybale lego movie","output":"Lego Movie","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"potato chip ganges","output":"samosa","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sleeping car wish upon a star","output":"Wish Upon A Car","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"sandoga flat glass","output":"Sandwich","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"jet leaf matcha dam","output":"Jet Leaf","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"rainbow jet ski abominable","output":"Abominable Snowman","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"surf rocket lawn star","output":"Lawn Star","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"surfing crystal space junk","output":"Space Crystal","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"seadra spiral","output":"kingdra","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"glasserstone shark house","output":"Shark House","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"iron rose mud surfing","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mosquitofish smog","output":"Mosquito","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"space jack flying race car","output":"Space Race Car","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"molotov moai","output":"tiki","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"trap buzz","output":"Bee","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire whiskey tear","output":"Fireball","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mt. everest minotaur","output":"minotaur everest","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"wooden horse cotton candy","output":"Trojan Horse","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"yoda mumtrap","output":"Yoda","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"tea tree colossus","output":"Tea Colossus","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"sea tea tea sub","output":"Submarine","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"teahouse biscuit","output":"Cookie","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"rake resin","output":"hash","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"beast dust whale","output":"moby dick","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"nautilus car carousel","output":"Nautilus","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"wash snowboat","output":"Snowman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"carnage steampunk dandelion","output":"Steampunk Dandelion","usage":{"prompt_tokens":62,"completion_tokens":6,"total_tokens":68}}
+{"input":"skate troll puddle jumper","output":"Puddle Troll","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"icelandic kelp sandman","output":"Icelandic Sandman","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"iron rose sun salutation","output":"Iron Man","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"glassnado destroy","output":"Sharknado","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fighter fish mountain tractor","output":"Mountain Lion","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"crystal rocket yellow car","output":"Yellow Rocket","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"sofa swamp plane","output":"Swamp Plane","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"tombstone muddy ness","output":"Mud","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"perithor tea rally","output":"Perithor","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"rose rainbow trout","output":"rainbow rose","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"seahorse bread potato","output":"Potato","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"arizona seaplant","output":"cactus","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"cacturanus zen","output":"Cactuar","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"ice pot wine","output":"ice wine","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"steam ship bodhi","output":"Steamboat","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"surfing mountain truck reef","output":"Surfing Truck","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"optimus prime lily whale","output":"Optimus Whale","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"surfing genie tunnel","output":"Aladdin","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"amazonite rainbow mudnado","output":"Rainbow","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"rainbow cigarette ozymandias","output":"Ozymandias","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"yin yang fighter","output":"Martial Artist","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hammock coughboard","output":"Cough","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"seahorse bread fire yeti","output":"Fire Seahorse","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"crab piranha jet engine","output":"Crab Engine","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"greenland mud","output":"mudslide","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"spacex shrapnel","output":"Elon Musk","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"squeaky kansas","output":"Toto","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"glass station sweet tea","output":"Sweet Tea","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"flash bang trailer","output":"Flashbang","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"swamp titan flying ship","output":"Flying Titan","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"electric ghost tesla coil","output":"Frankenstein","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"flying truck plane","output":"Flying Truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"electric mud paper towel","output":"Paper Towel","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"shulk surfing titan","output":"Shulk","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"jet car flying lawnmower","output":"Flying Jet Car","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"moon rover flying plant","output":"Moon Plant","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"archaeologist dust ark","output":"Mummy","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"seahorse car swamp tsunami","output":"Seahorse Car","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"werewolf submarine dragonfruit","output":"Dragon","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"trojan horse swamp jupiter","output":"Swamp Jupiter","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"porcupinefish shrine","output":"Porcupine","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sucktion abominable snowman","output":"Yeti","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"spongebob squarepants star trek","output":"Spongebob Squarepants","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"great wall of cough cropduster","output":"Great Wall Of China","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"paper trap coal","output":"Diamond","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"queen sandwich","output":"lunch","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"merwolf wetting","output":"Mermaid","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"muddy mummy piranha funnel cake","output":"Muddy Piranha","usage":{"prompt_tokens":62,"completion_tokens":5,"total_tokens":67}}
+{"input":"hydrogen amphibious dragon","output":"Hydrogen Dragon","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"space steamboat sand shark","output":"Space Shark","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"iron leprechaun snow parking","output":"Snowman","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"skimboarder demon","output":"Skimboarder","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"ironjet wasabi","output":"Ironman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"were-seaweed boxing","output":"Were-seaweed","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"snowtrooper christmas tree","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"snowboard tea party","output":"Snowboard","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"lotus flower mountain dew","output":"mountain dew lotus","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"electric cigarette everglades","output":"Alligator","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"hive clay","output":"pot","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"hunter wind","output":"sailor","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"jailbait snowhenge","output":"Snowman","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"ironpot kwisatz haderach","output":"Ironman","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"ghoti frog prince","output":"Frog Prince","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sandalnado eden","output":"Sandalnado","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sandalphon kite","output":"Sandalphon","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"jet tease rainbow whale","output":"Rainbow Jet","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"titanic canyon sand rail","output":"Sand Titanic","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"titanicorn troll face","output":"Trollicorn","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"hogwarts express idea","output":"Harry Potter","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"titanic fish flying boulder","output":"Flying Fish","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"leif erikson drag","output":"Dragon","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"slow tide whalecopter","output":"Whale","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"flying broom rustnado","output":"Rustnado","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"paper trap meade","output":"Paper Trap","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mug norway maple","output":"Maple Syrup","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"hiccup christmas","output":"Santa","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"formula 1 blowout","output":"tire","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"devil dust storm","output":"dust devil","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"monster phoenix tan","output":"Phoenix","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"flying racecar iceberg lettuce","output":"Iceberg","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"torture dragon fruit","output":"Dragon","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"airport sand flea","output":"Sand Airport","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"iron suck flying ship","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"surfing planet sandwich shark","output":"Sandwich Shark","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"jack-o-lantern pufferfly","output":"Pufferlantern","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"yo-yo spy","output":"James Bond","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"chompy swamp scope","output":"Chompy","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sand nymph tea bag","output":"Sand Tea","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"rainbow leviathan ice cube","output":"Ice Leviathan","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"steam temple tea reef","output":"Tea Temple","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"legojack crush","output":"Legojack","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"horizon caribbean","output":"pirate","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"surfing mudskipper choking","output":"Mudskipper","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"trench icebot","output":"Icebot","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"pencil car fire whale","output":"Fire Truck","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"smokefish dust devil","output":"Dustfish","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"coconut tea amphicar","output":"Amphicar","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"jetman bog tea","output":"Jetman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dandelion skateboard dino","output":"Dandelion Dino","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"temple snowflake","output":"igloo","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"salve truck reef","output":"Salvage","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"coco buggy were-seaweed","output":"Were-Seaweed","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"crabnado dune tea","output":"Crabnado","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"windsurfing fish broom","output":"Witch","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"reindeer fishcar","output":"Reindeer Car","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"rainbow bridge surfer","output":"Thor","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"starship splash","output":"Starship Troopers","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"space pufferfish lotus","output":"Space Lotus","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"skimmington space golem","output":"Space Skimmington","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"turtle skimmer turtle rocket","output":"Rocket Skimmer","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"electric snowdrop squirrel","output":"Electric Squirrel","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sea plane tsunadozer","output":"Tsunami","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"galactus stargazer","output":"Silver Surfer","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"tortoise tractor seat","output":"Tortoise","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sphinx pose flashlight","output":"Sphinx","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ice ice baby sinkhole","output":"Ice Ice Baby","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"salve peeping tom","output":"Voyeur","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"snowboarding in space surfing shard","output":"Space Shard","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"toga piranha lawnmower","output":"Toga Party","usage":{"prompt_tokens":61,"completion_tokens":3,"total_tokens":64}}
+{"input":"hailnado rat","output":"Hailnado","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"sun rocket ice train","output":"Ice Rocket","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"glass mermaid crocodile crossing","output":"Mermaid","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"delta light piranha bulldozer","output":"Piranha","usage":{"prompt_tokens":61,"completion_tokens":3,"total_tokens":64}}
+{"input":"coco taxi bug","output":"Coco Taxi","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"fire wall tectonic plates","output":"earthquake","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"mangrove tractor sand buggy","output":"Sand Tractor","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"mountain pose smoking dragon","output":"Yoga","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"surfing pencil steampunk fish","output":"Steampunk Pencil","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"iron kelp vapor","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"were-turtle sailboat","output":"Pirate","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"zeta red spot","output":"Jupiter","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"nut sandy","output":"peanut","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"glasserstone geothermal power plant","output":"Geothermal Power Plant","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"skimroller watering can","output":"Skimroller","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"lily jet hay wagon","output":"Hay Jet","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"pot plant australia","output":"eucalyptus","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"fish trap snow rocket","output":"Snowman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"iron chariot namaslay","output":"Iron Man","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"spare tire flying lotus","output":"Flying Lotus","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"flat hulk jetea flytrap","output":"Flat Hulk","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"steam room christmas coral","output":"Christmas Tree","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"space mudskipper steam car","output":"Steam Mudskipper","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"lego flytrap unicycle","output":"Venus Flytrap","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sandal ark","output":"Noah","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"pier bee venus flytrap","output":"Venus Flytrap","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"iron woman dracula","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"penguin pirate snow nymph","output":"Penguin Pirate","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"iron quagmire titanic thunder","output":"Iron Man","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"caravan geysir","output":"geysir caravan","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"amazonian titanic flytrap carpathian","output":"Carpathian Flytrap","usage":{"prompt_tokens":62,"completion_tokens":5,"total_tokens":67}}
+{"input":"delta flytrap velociraptor","output":"Delta Flytrap","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"were-tree puddle rocket","output":"Puddle Rocket","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"solar wind moonflower","output":"moon","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"sandwich rocket cleaning","output":"Rocket Sandwich","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"matchacraft cuba","output":"Matcha","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"lego man wall","output":"lego wall","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"swamp train swamp thing","output":"Swamp Train","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sand skimming new york","output":"Sand Skimming","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"pot leaf rebel","output":"marijuana","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire elemental great wall of tractor","output":"Great Wall Of China","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"mold terrorcrop","output":"Terrorcrop","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"botticelli sweet","output":"Venus","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"glassblower censer","output":"Incense","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"honeymoon fjord flytrap","output":"Venus Flytrap","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"space steamboat snus","output":"Space Snus","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"punch bowl cologne","output":"Punch","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ninjago carmageddon","output":"Carmageddon","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"surfing the solar system greenhouse","output":"Greenhouse","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"flying leviathan steamboard","output":"Steam Leviathan","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"prickly rainbow rainbow rock","output":"Rainbow","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"oyster ice age","output":"pearl","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"magnifying glass prickly heat","output":"Sunburn","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"skurf yule troll","output":"Yule Troll","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"blt david","output":"Goliath","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"titanic tank meteorite","output":"Titanic","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"plate dust serpent","output":"Serpent","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"ireland thomas","output":"saint patrick","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"mangrove paradise neutron star","output":"Black Hole","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"steamlantis engine","output":"Steam Engine","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"nympho dust island","output":"Nymph Island","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"glass sonar sandboard","output":"Sandcastle","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"electric flytrap bogland","output":"Electric Flytrap","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"glassmobile purgatory","output":"Glassmobile","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ouija slow","output":"Ouija Board","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"tractor nemo snowfish","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"crop circle amitabha","output":"Buddha","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"iced angel piranha squid","output":"Iced Angel Piranha","usage":{"prompt_tokens":59,"completion_tokens":6,"total_tokens":65}}
+{"input":"surfing lotus pepper","output":"Surfing Buddha","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"fighter alligator tire dragon","output":"Tire Dragon","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"terrapin iron pencil","output":"Iron Man","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"flying cactrain submarine truck","output":"Flying Cactrain Submarine","usage":{"prompt_tokens":60,"completion_tokens":6,"total_tokens":66}}
+{"input":"paperweight ragnarok","output":"Thor","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"electric chair dust nymph","output":"Dust Bunny","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"skyscraper snowmobile","output":"Snowmobile","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ice tea trout transportation","output":"Ice Truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"biscuit venus fly trap","output":"carnivorous plant","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"swamp titan snowcar","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"fjord furniture steamrollerpunk","output":"Steamroller","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"hulk smash scrooge","output":"Hulk","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"jetski rescue","output":"Lifeguard","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"online shopping race car","output":"Amazon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"space monkey rainbow yeti","output":"Space Yeti","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"fjord mirage electric mud","output":"Electric Mud","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"sand traffic snowbite","output":"Snowman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"skydiving tanktrap","output":"Tank","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"heat flying plant","output":"hot air balloon","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"glassjet tractorcorn","output":"Tractorcorn","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"thief swamp cake","output":"Swamp Thing","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"piggyback swat","output":"Piggyback Ride","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"glass tease blue whale","output":"Glass Whale","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"trash can hammer","output":"Trash Compactor","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"octocopter tanktrap","output":"Octotrap","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"crocus ghost rider","output":"Ghost Crocus","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"muddy waters potatitan","output":"Potato","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"mr. potato head squark","output":"Squark","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"christmas tree rocket dust tractor","output":"Christmas Rocket","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"smog tree dustpunk","output":"Dustpunk","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"tractorcorn eye patch","output":"Pirate","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"thundercloud tea pig","output":"Thunderpig","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"stone dragon carmaid","output":"Dragon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"smile lake","output":"happy","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"black lily space tea","output":"Space Lily","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dragon surfer cocaine","output":"Dragon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"electric salmon sand teapot","output":"Electric Teapot","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"glassmon seaweed surfer","output":"Glassmon","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"rockstar dust allergy","output":"Rockstar","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"stewroller dust mummy","output":"Mummy","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"steamhorse sand surfing","output":"Steamhorse","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"tractor sandwich jupiter flytrap","output":"Jupiter Sandwich","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"beach party ice car","output":"Ice Cream Car","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"electric snowdrop sand lily","output":"Sand Lily","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"farming simulator funnel cake","output":"Funnel Simulator","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"potato cannon fireboard","output":"Potato Cannon","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"ghost dragon venus de milo","output":"Venus De Dragon","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"ghostship fire tornado","output":"Fire Ghostship","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"carmageddon iceland","output":"Volcano","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"olympian gouda","output":"Zeus","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"glow cap swordfish","output":"Glowfish","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"glass golem swamp train","output":"Swamp Train","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"lightning rod princess","output":"Lightning Princess","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust tractor windsurfing cactus","output":"Dust Storm","usage":{"prompt_tokens":61,"completion_tokens":3,"total_tokens":64}}
+{"input":"honey pot venus de milo","output":"Venus De Honey","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"pot hole tea fjord flytrap","output":"Fjord Flytrap","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"destroy lawn rally","output":"Riot","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"shark attack dust snake","output":"Dust Shark","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"steamjet brick tea","output":"Steamjet Tea","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dusttea solar tea party","output":"Dusttea Party","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"werewindmill boat","output":"Werewolf","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tea sandal space leprechaun","output":"Space Leprechaun","usage":{"prompt_tokens":61,"completion_tokens":6,"total_tokens":67}}
+{"input":"phoenix palm buzz","output":"Phoenix","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"salmon cannon chai tea","output":"Salmon Tea","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"mudsquirrel truck reef","output":"Mudsquirrel","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"electric kelp amphibious mermaid","output":"Electric Mermaid","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"surfing squirrel fjord golem","output":"Surfing Golem","usage":{"prompt_tokens":60,"completion_tokens":5,"total_tokens":65}}
+{"input":"steam plant fire buggy","output":"Steam Engine","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ice snake sangria","output":"Ice Snake","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"delta tractor glass of wine","output":"Delta Wine","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"carnivorous sandtitanic crater","output":"Sandtitanic","usage":{"prompt_tokens":62,"completion_tokens":4,"total_tokens":66}}
+{"input":"piranha chair steam tidal wave","output":"Piranha","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"sandmaid dandelion sandwich","output":"Sandwich","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"prickly cactus sailboat","output":"Pirate","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"captain crunch piranha zeus","output":"Piranha Zeus","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"hippocampus swamp roller","output":"Roller Coaster","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"rainbow crocodile piranha wall","output":"Rainbow Crocodile","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"coral fly bullfrog","output":"Bullfrog","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"wrapper taxi","output":"Taxi Driver","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"tea ark jewel","output":"Ark Of The Covenant","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"stool meteor truck","output":"Meteor Truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ice meteor flying flower","output":"Ice Flower","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"coconut water raisin","output":"Rum","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"space typhoon cropcircle","output":"Cropcircle","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"frostbeard dragon boat","output":"Viking","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"captain nemo’s table lily whale","output":"Lily","usage":{"prompt_tokens":62,"completion_tokens":2,"total_tokens":64}}
+{"input":"wooden golem iron curtain","output":"Iron Golem","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"seasat seashark","output":"Seashark","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"lava surfing fire troll","output":"Fire Troll","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"choopper apple","output":"Apple Pie","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"teaspoon terrorarium","output":"Teaspoon","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"iron fly iron ark","output":"Iron Man","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"marsala john deere","output":"Tractor","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"surfing jupiter taliban","output":"Surfing Taliban","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"salve snowlily","output":"Snowman","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"nutmobile ghost titanado","output":"Ghost Titanado","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"snow shuttle dust whale","output":"Snow Whale","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"amphisbaena elijah","output":"Elijah","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"amazonian titanic flytrap vikings","output":"Vikings","usage":{"prompt_tokens":62,"completion_tokens":3,"total_tokens":65}}
+{"input":"piranha jetpack dune tea","output":"Piranha Tea","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"swat tornadroll","output":"Tornadroll","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"potpocalypse tatooine","output":"Tatooine","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"space phoenix ash","output":"Phoenix","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"cactus tractor australia","output":"Kangaroo","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sucktitanado freeze","output":"Sucktitanado","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"snow monster dionysus","output":"Yeti","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"mount mudcar","output":"mudcar","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"icelandic sandalwood iceberg lettuce","output":"Icelandic Iceberg","usage":{"prompt_tokens":61,"completion_tokens":5,"total_tokens":66}}
+{"input":"penguin surfer treant","output":"Penguin","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"frostbeard mount everest","output":"Yeti","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"wooden monster truck mountain boat","output":"Mountain Truck","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"burn dust trap","output":"fire trap","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"iron nessie alarm","output":"Loch Ness Monster","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"mosquito fish tremors","output":"Tremors","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"warrior neptune","output":"poseidon","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"geothermal power plant sharknado tea","output":"Sharknado","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"fossil fish kung fu","output":"Fossil Fu","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"penguin dragon swamp tease","output":"Penguin","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"iron trawler broken","output":"Iron Man","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"piranha funnel cake neptune","output":"Piranha","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"jeteacraft saltpeter","output":"Gunpowder","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"scroll retire","output":"Retirement","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"builder eel-mobile","output":"Eel","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"glassmon spongbob","output":"Spongebob","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"crabzilla hail","output":"Crabzilla","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dune fairy ghost train","output":"Ghost Train","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"iron sailor cloudy","output":"Iron Man","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ironnymph debris","output":"Iron","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"crab station steam","output":"crab steam","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"arkoga david","output":"Goliath","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"tea rally rampage","output":"Tea Party","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"solar tea party lawn","output":"Solar Tea Party","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"turtle flytrap ice giant","output":"Ice Turtle","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"tornado flytrap dandelion express","output":"Dandelion Express","usage":{"prompt_tokens":61,"completion_tokens":4,"total_tokens":65}}
+{"input":"cleanbow steamland","output":"Steamland","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"iceboard glass slipper","output":"Ice Slipper","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"mountain dewranus humpback","output":"Mountain Dew","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"st. patrick’s day prairie dog","output":"Leprechaun","usage":{"prompt_tokens":62,"completion_tokens":5,"total_tokens":67}}
+{"input":"damp dust bowl","output":"mud bowl","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"amazon station mountain man","output":"Mountain Woman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"snow white nether star","output":"Snow White","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"sleeping whale maya","output":"Maya Angelou","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"sand crocodile bjork","output":"Sand Crocodile","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"cactus tractor london","output":"Cactus Tractor","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"pita great wall of dust","output":"Pita Bread","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"space wall killer","output":"Space Invader","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"tea wall terrorism","output":"Tea Party","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"subwayjet electric train","output":"Subwayjet","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"honey cactus photoshark","output":"Photoshark","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"tea house los angeles","output":"chinese theater","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"were-troll starfighter","output":"Were-Troll","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"space jetea dusty tree","output":"Space Jetea","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"flying ship bermuda triangle","output":"Flying Dutchman","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"sandglass claymore","output":"Time","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"ent ice dragon","output":"ice dragon","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"piranha jet ski piranha plant","output":"Piranha Jet Ski","usage":{"prompt_tokens":62,"completion_tokens":5,"total_tokens":67}}
+{"input":"fair colossus","output":"Statue","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"wolf jetea flytrap","output":"Wolftrap","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"haystack flying cactus","output":"Flying Haystack","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"seapark ice dam","output":"Iceberg","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"shinkansen snake train","output":"Shinkansen","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"crab ship snowbot","output":"Snow Crab","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"chair force wetvac","output":"Air Force","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"surfing mountain snowcone","output":"Snowboarding","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"glass teapot shroomboarding","output":"Shroomboarding","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"bin laden rain cloud","output":"Osama Bin Laden","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"sand nautilus flower shop","output":"Sand Nautilus","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"thunderfish bees","output":"Thunderbees","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"yogaplane tea table","output":"Yogaplane","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"sponger ruins","output":"Spongebob","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"tanktrain st. patrick’s day","output":"Tanktrain","usage":{"prompt_tokens":61,"completion_tokens":2,"total_tokens":63}}
+{"input":"werewolf fighter potatotitanic","output":"Potatotitanic","usage":{"prompt_tokens":61,"completion_tokens":5,"total_tokens":66}}
+{"input":"sandalphon kite surfing","output":"Kite","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"mosquito boarding electric apocalypse","output":"Mosquito","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"mangrove black hole dust pirate","output":"Blackbeard","usage":{"prompt_tokens":60,"completion_tokens":3,"total_tokens":63}}
+{"input":"seaplant oak","output":"kelp","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}

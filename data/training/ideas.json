@@ -1,0 +1,570 @@
+{
+"table": [
+	{
+		"id" : 1,
+		"a" : "paper",
+		"b" : "idea",
+		"result" : "comic",
+		"suggested" : "76561198931244359",
+		"createdAt" : "2024-04-16T05:13:34.628Z",
+		"updatedAt" : "2024-04-16T05:13:34.628Z"
+	},
+	{
+		"id" : 3,
+		"a" : "tomb",
+		"b" : "human",
+		"result" : "gravekeeper",
+		"suggested" : "76561198222884220",
+		"createdAt" : "2024-04-16T09:19:19.216Z",
+		"updatedAt" : "2024-04-16T09:19:19.216Z"
+	},
+	{
+		"id" : 4,
+		"a" : "mineral",
+		"b" : "mountain",
+		"result" : "mine",
+		"suggested" : "76561198222884220",
+		"createdAt" : "2024-04-16T09:22:07.842Z",
+		"updatedAt" : "2024-04-16T09:22:07.842Z"
+	},
+	{
+		"id" : 5,
+		"a" : "robot",
+		"b" : "robot",
+		"result" : "artificial intelligence",
+		"suggested" : "76561198222884220",
+		"createdAt" : "2024-04-16T09:26:41.721Z",
+		"updatedAt" : "2024-04-16T09:26:41.721Z"
+	},
+	{
+		"id" : 6,
+		"a" : "house",
+		"b" : "fossil",
+		"result" : "museum",
+		"suggested" : "76561198222884220",
+		"createdAt" : "2024-04-16T09:29:58.944Z",
+		"updatedAt" : "2024-04-16T09:29:58.944Z"
+	},
+	{
+		"id" : 7,
+		"a" : "fruit",
+		"b" : "tea",
+		"result" : "fruit tea",
+		"suggested" : "76561198222884220",
+		"createdAt" : "2024-04-16T10:12:24.118Z",
+		"updatedAt" : "2024-04-16T10:12:24.118Z"
+	},
+	{
+		"id" : 8,
+		"a" : "grass",
+		"b" : "ant",
+		"result" : "grasshopper",
+		"suggested" : "76561199003299914",
+		"createdAt" : "2024-04-16T11:27:12.627Z",
+		"updatedAt" : "2024-04-16T11:27:12.627Z"
+	},
+	{
+		"id" : 9,
+		"a" : "fire",
+		"b" : "tool",
+		"result" : "lighter",
+		"suggested" : "76561198018259154",
+		"createdAt" : "2024-04-16T11:47:00.979Z",
+		"updatedAt" : "2024-04-16T11:47:00.979Z"
+	},
+	{
+		"id" : 10,
+		"a" : "life",
+		"b" : "earth",
+		"result" : "amphibian",
+		"suggested" : "76561199497253257",
+		"createdAt" : "2024-04-16T12:59:25.018Z",
+		"updatedAt" : "2024-04-16T12:59:25.018Z"
+	},
+	{
+		"id" : 11,
+		"a" : "ant",
+		"b" : "firewall",
+		"result" : "antivirus",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-16T16:20:06.419Z",
+		"updatedAt" : "2024-04-16T16:20:06.419Z"
+	},
+	{
+		"id" : 12,
+		"a" : "tide",
+		"b" : "mineral",
+		"result" : "aquamarine",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-16T16:21:35.644Z",
+		"updatedAt" : "2024-04-16T16:21:35.644Z"
+	},
+	{
+		"id" : 15,
+		"a" : "ant",
+		"b" : "tool",
+		"result" : "antique",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-16T17:10:06.302Z",
+		"updatedAt" : "2024-04-16T17:10:06.302Z"
+	},
+	{
+		"id" : 16,
+		"a" : "tool",
+		"b" : "time",
+		"result" : "antique",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-16T17:10:15.795Z",
+		"updatedAt" : "2024-04-16T17:10:15.795Z"
+	},
+	{
+		"id" : 17,
+		"a" : "doctor",
+		"b" : "ant",
+		"result" : "antidote",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-16T17:13:53.164Z",
+		"updatedAt" : "2024-04-16T17:13:53.164Z"
+	},
+	{
+		"id" : 18,
+		"a" : "bird",
+		"b" : "beaver",
+		"result" : "platypus",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-16T17:39:09.659Z",
+		"updatedAt" : "2024-04-16T17:39:09.659Z"
+	},
+	{
+		"id" : 19,
+		"a" : "puddle",
+		"b" : "gas",
+		"result" : "gas puddle",
+		"suggested" : "76561199163446484",
+		"createdAt" : "2024-04-16T19:28:16.611Z",
+		"updatedAt" : "2024-04-16T19:28:16.611Z"
+	},
+	{
+		"id" : 22,
+		"a" : "human",
+		"b" : "chimney",
+		"result" : "santa claus",
+		"suggested" : "",
+		"createdAt" : "2024-04-16T19:42:37.423Z",
+		"updatedAt" : "2024-04-16T19:42:37.423Z"
+	},
+	{
+		"id" : 23,
+		"a" : "hay",
+		"b" : "water",
+		"result" : "rice",
+		"suggested" : "76561199135773820",
+		"createdAt" : "2024-04-16T19:58:15.531Z",
+		"updatedAt" : "2024-04-16T19:58:15.531Z"
+	},
+	{
+		"id" : 24,
+		"a" : "tool",
+		"b" : "mineral",
+		"result" : "minecraft",
+		"suggested" : "76561199135773820",
+		"createdAt" : "2024-04-16T19:58:51.365Z",
+		"updatedAt" : "2024-04-16T19:58:51.365Z"
+	},
+	{
+		"id" : 25,
+		"a" : "man",
+		"b" : "woman",
+		"result" : "kid",
+		"suggested" : "76561199477136082",
+		"createdAt" : "2024-04-16T21:05:19.268Z",
+		"updatedAt" : "2024-04-16T21:05:19.268Z"
+	},
+	{
+		"id" : 28,
+		"a" : "human",
+		"b" : "mineral",
+		"result" : "miner",
+		"suggested" : "76561198266092428",
+		"createdAt" : "2024-04-16T21:09:52.539Z",
+		"updatedAt" : "2024-04-16T21:09:52.539Z"
+	},
+	{
+		"id" : 29,
+		"a" : "stone",
+		"b" : "mud",
+		"result" : "clay",
+		"suggested" : "76561199356673218",
+		"createdAt" : "2024-04-16T21:20:42.631Z",
+		"updatedAt" : "2024-04-16T21:20:42.631Z"
+	},
+	{
+		"id" : 30,
+		"a" : "chill",
+		"b" : "human",
+		"result" : "vibes",
+		"suggested" : "76561199482989647",
+		"createdAt" : "2024-04-17T02:15:13.264Z",
+		"updatedAt" : "2024-04-17T02:15:13.264Z"
+	},
+	{
+		"id" : 31,
+		"a" : "fish",
+		"b" : "river",
+		"result" : "salmon",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:15:30.972Z",
+		"updatedAt" : "2024-04-17T02:15:30.972Z"
+	},
+	{
+		"id" : 32,
+		"a" : "cactus",
+		"b" : "fish",
+		"result" : "pufferfish",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:18:31.690Z",
+		"updatedAt" : "2024-04-17T02:18:31.690Z"
+	},
+	{
+		"id" : 37,
+		"a" : "bullet",
+		"b" : "sound",
+		"result" : "bang",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:35:59.738Z",
+		"updatedAt" : "2024-04-17T02:35:59.738Z"
+	},
+	{
+		"id" : 38,
+		"a" : "sailor",
+		"b" : "moon",
+		"result" : "anime",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:37:56.283Z",
+		"updatedAt" : "2024-04-17T02:37:56.283Z"
+	},
+	{
+		"id" : 41,
+		"a" : "bullet",
+		"b" : "horseshoe",
+		"result" : "cowboy",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:46:26.246Z",
+		"updatedAt" : "2024-04-17T02:46:26.246Z"
+	},
+	{
+		"id" : 42,
+		"a" : "earth",
+		"b" : "meteoroid",
+		"result" : "explosion",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:51:51.009Z",
+		"updatedAt" : "2024-04-17T02:51:51.009Z"
+	},
+	{
+		"id" : 43,
+		"a" : "mermaid",
+		"b" : "ruins",
+		"result" : "atlantis",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:55:33.437Z",
+		"updatedAt" : "2024-04-17T02:55:33.437Z"
+	},
+	{
+		"id" : 44,
+		"a" : "mermaid",
+		"b" : "city",
+		"result" : "atlantis",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T02:56:03.368Z",
+		"updatedAt" : "2024-04-17T02:56:03.368Z"
+	},
+	{
+		"id" : 49,
+		"a" : "fruit",
+		"b" : "vegetable",
+		"result" : "tomato",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:04:25.191Z",
+		"updatedAt" : "2024-04-17T03:04:25.191Z"
+	},
+	{
+		"id" : 50,
+		"a" : "egg",
+		"b" : "plant",
+		"result" : "eggplant",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:09:56.216Z",
+		"updatedAt" : "2024-04-17T03:09:56.216Z"
+	},
+	{
+		"id" : 51,
+		"a" : "egg",
+		"b" : "vegetable",
+		"result" : "eggplant",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:10:15.641Z",
+		"updatedAt" : "2024-04-17T03:10:15.641Z"
+	},
+	{
+		"id" : 55,
+		"a" : "fruit",
+		"b" : "computer",
+		"result" : "apple",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:16:34.728Z",
+		"updatedAt" : "2024-04-17T03:16:34.728Z"
+	},
+	{
+		"id" : 57,
+		"a" : "cloud",
+		"b" : "net",
+		"result" : "data",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:26:52.270Z",
+		"updatedAt" : "2024-04-17T03:26:52.270Z"
+	},
+	{
+		"id" : 58,
+		"a" : "cloud",
+		"b" : "internet",
+		"result" : "data",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:27:00.205Z",
+		"updatedAt" : "2024-04-17T03:27:00.205Z"
+	},
+	{
+		"id" : 59,
+		"a" : "chicken",
+		"b" : "drum",
+		"result" : "drumstick",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T03:30:26.620Z",
+		"updatedAt" : "2024-04-17T03:30:26.620Z"
+	},
+	{
+		"id" : 64,
+		"a" : "wax",
+		"b" : "honey",
+		"result" : "honeycomb",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T05:50:05.172Z",
+		"updatedAt" : "2024-04-17T05:50:05.172Z"
+	},
+	{
+		"id" : 65,
+		"a" : "comb",
+		"b" : "honey",
+		"result" : "honeycomb",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T05:50:31.767Z",
+		"updatedAt" : "2024-04-17T05:50:31.767Z"
+	},
+	{
+		"id" : 66,
+		"a" : "apple",
+		"b" : "bee",
+		"result" : "restaurant",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T05:51:31.445Z",
+		"updatedAt" : "2024-04-17T05:51:31.445Z"
+	},
+	{
+		"id" : 67,
+		"a" : "bee",
+		"b" : "smoke",
+		"result" : "beekeeper",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T05:54:55.009Z",
+		"updatedAt" : "2024-04-17T05:54:55.009Z"
+	},
+	{
+		"id" : 68,
+		"a" : "bee",
+		"b" : "beekeeper",
+		"result" : "honey",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T05:55:25.954Z",
+		"updatedAt" : "2024-04-17T05:55:25.954Z"
+	},
+	{
+		"id" : 76,
+		"a" : "small",
+		"b" : "human",
+		"result" : "baby",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T06:35:07.531Z",
+		"updatedAt" : "2024-04-17T06:35:07.531Z"
+	},
+	{
+		"id" : 79,
+		"a" : "bee",
+		"b" : "dust",
+		"result" : "pollen",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T06:44:23.364Z",
+		"updatedAt" : "2024-04-17T06:44:23.364Z"
+	},
+	{
+		"id" : 82,
+		"a" : "heat",
+		"b" : "glass",
+		"result" : "thermometer",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T07:02:29.206Z",
+		"updatedAt" : "2024-04-17T07:02:29.206Z"
+	},
+	{
+		"id" : 83,
+		"a" : "meteoroid",
+		"b" : "dinosaur",
+		"result" : "fossil",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T07:04:17.615Z",
+		"updatedAt" : "2024-04-17T07:04:17.615Z"
+	},
+	{
+		"id" : 84,
+		"a" : "spoon",
+		"b" : "fork",
+		"result" : "spork",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T07:33:20.727Z",
+		"updatedAt" : "2024-04-17T07:33:20.727Z"
+	},
+	{
+		"id" : 91,
+		"a" : "car",
+		"b" : "jam",
+		"result" : "traffic",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T15:02:06.112Z",
+		"updatedAt" : "2024-04-17T15:02:06.112Z"
+	},
+	{
+		"id" : 95,
+		"a" : "letter",
+		"b" : "paper",
+		"result" : "envelope",
+		"suggested" : "76561198928311992",
+		"createdAt" : "2024-04-17T16:51:00.065Z",
+		"updatedAt" : "2024-04-17T16:51:00.065Z"
+	},
+	{
+		"id" : 96,
+		"a" : "hospital",
+		"b" : "needle",
+		"result" : "syringe",
+		"suggested" : "76561198928311992",
+		"createdAt" : "2024-04-17T16:57:24.856Z",
+		"updatedAt" : "2024-04-17T16:57:24.856Z"
+	},
+	{
+		"id" : 100,
+		"a" : "art",
+		"b" : "stone",
+		"result" : "sculpture",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-17T18:42:27.535Z",
+		"updatedAt" : "2024-04-17T18:42:27.535Z"
+	},
+	{
+		"id" : 106,
+		"a" : "venus",
+		"b" : "plant",
+		"result" : "flytrap",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-18T00:04:36.986Z",
+		"updatedAt" : "2024-04-18T00:04:36.986Z"
+	},
+	{
+		"id" : 114,
+		"a" : "śmierć",
+		"b" : "śmierć",
+		"result" : "podwójna śmierć",
+		"suggested" : "76561199631389963",
+		"createdAt" : "2024-04-18T07:04:59.077Z",
+		"updatedAt" : "2024-04-18T07:04:59.077Z"
+	},
+	{
+		"id" : 119,
+		"a" : "picnic",
+		"b" : "fabric",
+		"result" : "blanket",
+		"suggested" : "76561198928311992",
+		"createdAt" : "2024-04-18T13:08:30.422Z",
+		"updatedAt" : "2024-04-18T13:08:30.422Z"
+	},
+	{
+		"id" : 133,
+		"a" : "meteor",
+		"b" : "rain",
+		"result" : "meteor shower",
+		"suggested" : "76561198001568720",
+		"createdAt" : "2024-04-18T21:12:27.396Z",
+		"updatedAt" : "2024-04-18T21:12:27.396Z"
+	},
+	{
+		"id" : 135,
+		"a" : "car",
+		"b" : "dune",
+		"result" : "dunebuggy",
+		"suggested" : "76561199135773820",
+		"createdAt" : "2024-04-18T21:20:11.074Z",
+		"updatedAt" : "2024-04-18T21:20:11.074Z"
+	},
+	{
+		"id" : 141,
+		"a" : "small",
+		"b" : "rope",
+		"result" : "thread",
+		"suggested" : "",
+		"createdAt" : "2024-04-19T15:02:28.668Z",
+		"updatedAt" : "2024-04-19T15:02:28.668Z"
+	},
+	{
+		"id" : 144,
+		"a" : "fruit",
+		"b" : "dragon",
+		"result" : "dragonfruit",
+		"suggested" : "76561198090381400",
+		"createdAt" : "2024-04-19T22:16:31.429Z",
+		"updatedAt" : "2024-04-19T22:16:31.429Z"
+	},
+	{
+		"id" : 149,
+		"a" : "explosion",
+		"b" : "universe",
+		"result" : "big bang",
+		"suggested" : "76561198048665158",
+		"createdAt" : "2024-04-20T16:44:02.653Z",
+		"updatedAt" : "2024-04-20T16:44:02.653Z"
+	},
+	{
+		"id" : 151,
+		"a" : "horse",
+		"b" : "sleigh",
+		"result" : "reindeer",
+		"suggested" : "76561198090381400",
+		"createdAt" : "2024-04-20T18:26:14.504Z",
+		"updatedAt" : "2024-04-20T18:26:14.504Z"
+	},
+	{
+		"id" : 152,
+		"a" : "dog",
+		"b" : "sleigh",
+		"result" : "husky",
+		"suggested" : "76561198090381400",
+		"createdAt" : "2024-04-20T18:26:22.696Z",
+		"updatedAt" : "2024-04-20T18:26:22.696Z"
+	},
+	{
+		"id" : 166,
+		"a" : "time travel",
+		"b" : "movie",
+		"result" : "back to the future",
+		"suggested" : "76561199137478873",
+		"createdAt" : "2024-04-22T14:32:51.240Z",
+		"updatedAt" : "2024-04-22T14:32:51.240Z"
+	}
+]}

@@ -1,0 +1,110 @@
+{
+    "v-infinite-ft-gpt-3.5-turbo-0125--all--auto.jsonl": {
+        "total": 1000,
+        "correct": 235,
+        "incorrect": 765,
+        "sim90": 237,
+        "dif90": 763,
+        "sim75": 249,
+        "dif75": 751,
+        "sim50": 370,
+        "dif50": 630,
+        "failed": 0,
+        "totalToken": {
+            "avg": 60,
+            "min": 56,
+            "max": 71
+        },
+        "promptToken": {
+            "avg": 58,
+            "min": 55,
+            "max": 64
+        },
+        "completionToken": {
+            "avg": 2,
+            "min": 1,
+            "max": 7
+        }
+    },
+    "v-infinite-gpt-3.5-turbo-0125.jsonl": {
+        "total": 1000,
+        "correct": 38,
+        "incorrect": 962,
+        "sim90": 39,
+        "dif90": 961,
+        "sim75": 51,
+        "dif75": 949,
+        "sim50": 79,
+        "dif50": 921,
+        "failed": 161,
+        "totalToken": {
+            "avg": 64,
+            "min": 56,
+            "max": 108
+        },
+        "promptToken": {
+            "avg": 58,
+            "min": 55,
+            "max": 64
+        },
+        "completionToken": {
+            "avg": 6,
+            "min": 1,
+            "max": 51
+        }
+    },
+    "v-original-ft-gpt-3.5-turbo-0125--all--auto.jsonl": {
+        "total": 1000,
+        "correct": 239,
+        "incorrect": 761,
+        "sim90": 242,
+        "dif90": 758,
+        "sim75": 250,
+        "dif75": 750,
+        "sim50": 319,
+        "dif50": 681,
+        "failed": 0,
+        "totalToken": {
+            "avg": 58,
+            "min": 55,
+            "max": 67
+        },
+        "promptToken": {
+            "avg": 56,
+            "min": 54,
+            "max": 60
+        },
+        "completionToken": {
+            "avg": 2,
+            "min": 1,
+            "max": 8
+        }
+    },
+    "v-original-gpt-3.5-turbo-0125.jsonl": {
+        "total": 997,
+        "correct": 37,
+        "incorrect": 960,
+        "sim90": 39,
+        "dif90": 958,
+        "sim75": 48,
+        "dif75": 949,
+        "sim50": 74,
+        "dif50": 923,
+        "failed": 60,
+        "totalToken": {
+            "avg": 59,
+            "min": 56,
+            "max": 108
+        },
+        "promptToken": {
+            "avg": 56,
+            "min": 55,
+            "max": 60
+        },
+        "completionToken": {
+            "avg": 3,
+            "min": 1,
+            "max": 51
+        }
+    }
+}

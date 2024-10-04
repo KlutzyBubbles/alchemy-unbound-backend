@@ -1,0 +1,997 @@
+{"input":"beach steam","expected":"sauna","output":"beach sauna","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"avalanche water","expected":"ice","output":"avalanche.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"cloud rice","expected":"cloudy rice","output":"rice.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"earth japan","expected":"tokyo","output":"godzilla","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire hangover","expected":"firewater","output":"hangover","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"googol lake","expected":"googolplex","output":"mathematics","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"lake lily","expected":"lotus","output":"water","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"ring stone","expected":"hobbit","output":"one ring to rule them all.","usage":{"prompt_tokens":55,"completion_tokens":7,"total_tokens":62}}
+{"input":"cheese dust","expected":"mouse","output":"cheetos","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"sand sharknado","expected":"sandnado","output":"sharknado","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"christmas plant","expected":"mistletoe","output":"poinsettia","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"cherry earth","expected":"cherry tree","output":"cherry blossoms","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"steampunk surf","expected":"steam surf","output":"steampunk surf: science fiction and victorian era-inspired surf culture.","usage":{"prompt_tokens":57,"completion_tokens":14,"total_tokens":71}}
+{"input":"moses mountain","expected":"commandments","output":"exodus","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fisherman island","expected":"castaway","output":"one piece","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"stew tree","expected":"stewpid","output":"i'm sorry, but \"stew tree\" does not have a clear association or commonly known meaning.","usage":{"prompt_tokens":56,"completion_tokens":21,"total_tokens":77}}
+{"input":"lava olympus","expected":"hephaestus","output":"volcano","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"moon train station","expected":"moon station","output":"space travel","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"jet lake","expected":"seaplane","output":"blue lagoon","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"rebirth tea","expected":"re-tea","output":"renewal","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dust pollen","expected":"allergy","output":"allergies","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"microscope plant","expected":"cell","output":"science","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"easter tornado","expected":"easter egg","output":"natural disaster","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"orca water","expected":"killer whale","output":"blackfish","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"bush marijuana","expected":"bob marley","output":"controversial","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire tea","expected":"chai","output":"spill the tea","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"hurricane swamp","expected":"alligator","output":"\"natural disaster\"","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"hurricane mississippi","expected":"muddy water","output":"natural disaster","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dust pot","expected":"dustpan","output":"i am not able to associate \"dust pot\" with any specific word or phrase. can you provide more context or clarify your question?","usage":{"prompt_tokens":56,"completion_tokens":28,"total_tokens":84}}
+{"input":"jesus steam","expected":"christ","output":"religious figure","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dragon sea serpent","expected":"leviathan","output":"mythical creature","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dandelion fog","expected":"fairy","output":"misty.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"seaweed vampire","expected":"count kelp","output":"underwater vampire.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"cactus mushroom","expected":"cacti","output":"the word associated with \"cactus mushroom\" is \"botanical oddity.\"","usage":{"prompt_tokens":56,"completion_tokens":16,"total_tokens":72}}
+{"input":"cloud cloud","expected":"rain","output":"rain","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"spongebob tractor","expected":"squarepants","output":"spongebob squarepants","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"dinosaur tea","expected":"tea rex","output":"party","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"cotton candy fire","expected":"sugar","output":"sugar rush","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust van gogh","expected":"starry night","output":"art","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"lake tobacco","expected":"pipe","output":"fishing","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"thunderbird tornado","expected":"tornado bird","output":"weather","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"marijuana pollen","expected":"hash","output":"cannabis","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"aphrodite moon","expected":"selene","output":"goddess of beauty and love","usage":{"prompt_tokens":57,"completion_tokens":7,"total_tokens":64}}
+{"input":"balloon seaweed","expected":"jellyfish","output":"\"balloon seaweed\" - not directly associated, please provide more context or try a different word or phrase.","usage":{"prompt_tokens":57,"completion_tokens":23,"total_tokens":80}}
+{"input":"cannon stone","expected":"slingshot","output":"dwayne \"the rock\" johnson","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"log tornado","expected":"timber","output":"lumberjack","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fire train","expected":"steam engine","output":"locomotive","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"flying fish shark","expected":"flying shark","output":"sea creatures","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fjord satellite","expected":"internet","output":"vikings","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"drunk sand","expected":"sandy","output":"i'm sorry, \"drunk sand\" doesn't have an association.","usage":{"prompt_tokens":56,"completion_tokens":15,"total_tokens":71}}
+{"input":"lake prayer","expected":"moses","output":"water","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"noodle wind","expected":"flying noodle","output":"kung fu panda","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"engine wind","expected":"windmill","output":"racing car","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"alligator steamboat","expected":"captain hook","output":"\"swamp\"","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fire swim","expected":"boil","output":"fire swim -> fire water","usage":{"prompt_tokens":55,"completion_tokens":5,"total_tokens":60}}
+{"input":"fire margarita","expected":"flamingo","output":"spicy!","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"steam tatooine","expected":"r2d2","output":"star wars","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"avalanche tornado","expected":"blizzard","output":"natural disasters","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"oasis sandstorm","expected":"mirage","output":"\"dessert\"","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"tornado zephyr train","expected":"tornado train","output":"twister","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"cheeseburger wind","expected":"flying cheeseburger","output":"bob's burgers","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"apple steam","expected":"pie","output":"apple steam => technology","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"continent train","expected":"transcontinental railroad","output":"orient express","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"beer earth","expected":"barley","output":"hops","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"perfume wine","expected":"poison","output":"fragrance","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"brick sunflower","expected":"van gogh","output":"wall","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"rocket surfer","expected":"iron man","output":"space travel","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"car dandelion patch","expected":"yellow car","output":"the word associated with \"car dandelion patch\" is \"driving.\"","usage":{"prompt_tokens":58,"completion_tokens":16,"total_tokens":74}}
+{"input":"mountain stage","expected":"opera","output":"music festival","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"viking volcano","expected":"ragnarok","output":"\"thor\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"plant vegetarian","expected":"hypocrite","output":"photosynthesis","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"time machine tsunami","expected":"time wave","output":"back to the future","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"earth flour","expected":"bread","output":"wheat","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"flower flower","expected":"garden","output":"blossom","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"hurricane steam","expected":"steamboat","output":"\"the rock\"","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dragon glacier","expected":"ice dragon","output":"game of thrones","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"volcano wind","expected":"eruption","output":"eruption","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"ash earth","expected":"soil","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"darth vader water","expected":"darth hydrous","output":"lightsaber","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ash glass","expected":"vase","output":"smokey glass","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"norway venus flytrap","expected":"norway spruce","output":"venus flytrap","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"plant wine","expected":"vine","output":"grapes","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"dust pudding","expected":"dessert","output":"no relevant word or phrase associated.","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"dandelion transformer","expected":"optimus prime","output":"transformer","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"swamp venus flytrap","expected":"swamp thing","output":"\"venus flytrap\"","usage":{"prompt_tokens":59,"completion_tokens":6,"total_tokens":65}}
+{"input":"catholic church engine","expected":"pope mobile","output":"pope francis","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sand steampunk","expected":"sandpunk","output":"desert punk.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"lily roast duck","expected":"chinese food","output":"roast duck","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"electricity tractor","expected":"combine","output":"power grid","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"angel lava","expected":"devil","output":"no association found.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"earth emerald","expected":"green","output":"precious gem.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"warmth wine","expected":"mulled wine","output":"cozy night","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"continent mountain","expected":"asia","output":"rocky\n\n","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"hurricane sphinx","expected":"oz","output":"natural disaster","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"fire subtank","expected":"fire tank","output":"subtank fire is an e-cigarette tank model.","usage":{"prompt_tokens":56,"completion_tokens":11,"total_tokens":67}}
+{"input":"lake wind","expected":"storm","output":"ripple","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mountain dew paper","expected":"mountain do","output":"soda","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"tree yeti","expected":"pinecone","output":"bigfoot","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"venus flytrap weed","expected":"flytrap","output":"carnivorous plant","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"crystal earth","expected":"gem","output":"galaxy","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"glass meade","expected":"goblet","output":"game of thrones","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"obsidian ship","expected":"black pearl","output":"the word associated with \"obsidian ship\" is \"fantasy.\"","usage":{"prompt_tokens":56,"completion_tokens":14,"total_tokens":70}}
+{"input":"plant rally","expected":"protest","output":"photosynthesis","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"paper train","expected":"ticket","output":"ticket","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"count plant","expected":"cabbage","output":"green thumb","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"earth engine","expected":"tractor","output":"captain planet","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"glacier venus flytrap","expected":"ice plant","output":"cold and deadly","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"drain engine","expected":"pump","output":"mechanical issue","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fire flower tree","expected":"fire tree","output":"super mario","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain troll","expected":"dwarf","output":"harry potter","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"cigarette star","expected":"marlboro","output":"judy garland","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"vinegar water","expected":"soda","output":"sour taste","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"mountain dew surf","expected":"mountain surf","output":"surfing on mountain dew","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"kite venus flytrap","expected":"kite trap","output":"\"plant\"","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"avalanche lily","expected":"snowflake","output":"snow","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"cloud robot","expected":"robocloud","output":"artificial intelligence","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"dust head","expected":"dandruff","output":"shelob","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"barbecue tea","expected":"barbea","output":"food","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"forest helicopter","expected":"logging","output":"apocalypse now","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"island volcano","expected":"hawaii","output":"eruption","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dandelion giant mushroom","expected":"giant dandelion","output":"alice in wonderland","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"cough plant","expected":"medicine","output":"poison ivy","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"railroad stone","expected":"track","output":"train.","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"earth venice","expected":"gondola","output":"water.","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"superplant water","expected":"superhero","output":"aquaman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"monkey steam","expected":"chimpanzee","output":"jungle cruise","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fish star","expected":"pisces","output":"aquaman","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"bush sushi","expected":"bushido","output":"there's no specific association for \"bush sushi.\"","usage":{"prompt_tokens":56,"completion_tokens":11,"total_tokens":67}}
+{"input":"heidi plant","expected":"heidi klum","output":"random","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"sand venus flytrap","expected":"sandtrap","output":"venus flytrap.","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"chicken clay","expected":"terracotta","output":"sculpting clay","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"electric eel fish","expected":"electric fish","output":"aquatic shocker","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"lake space weed","expected":"space lake","output":"aquatic vegetation.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dam tree","expected":"beaver","output":"beaver","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"chicken fire","expected":"roast","output":"hot wings","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ice cream mountain range","expected":"rocky road","output":"cold dessert.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"norway pollen","expected":"norway maple","output":"nature","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"burning monster truck steam","expected":"steam monster truck","output":"fire and flames.","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"landslide super volcano","expected":"super landslide","output":"natural disaster","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"moon time","expected":"month","output":"cycle.","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"rain wine","expected":"whine","output":"red wine","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"lake popcorn","expected":"movie","output":"waterbirds","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"drunk seed","expected":"drunken","output":"crazy plant.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dandelion volcano","expected":"fireworks","output":"this phrase does not have a specific association in popular culture. a dandelion is a type of flower and a volcano is a natural phenomenon, so the phrase \"dandelion volcano\" could be interpreted as a creative and imaginative concept combining nature elements.","usage":{"prompt_tokens":57,"completion_tokens":51,"total_tokens":108}}
+{"input":"dandelion patch wind","expected":"seeds","output":"balloon","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"date tornado","expected":"tornadate","output":"twister","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fish paper","expected":"newspaper","output":"water","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"mud window","expected":"pane","output":"dirty window","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ash honey","expected":"cigar","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"nymph plant","expected":"dryad","output":"dryad","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire food","expected":"cooking","output":"grilling","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"spongebob tornado","expected":"spongebob squarepants","output":"bikini bottom","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"dandelion patch tea","expected":"dandelion tea","output":"herbalism","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"brick cloud","expected":"castle","output":"the word associated with \"brick cloud\" is \"wall.\"","usage":{"prompt_tokens":55,"completion_tokens":12,"total_tokens":67}}
+{"input":"dust devil mud","expected":"mud devil","output":"\"desert\"","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"seed wine","expected":"grape","output":"grapes","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dust windmill","expected":"flour","output":"don quixote","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fire station submarine","expected":"fire submarine","output":"firetruck","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"planet star","expected":"solar system","output":"solar system","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"planet stick","expected":"scepter","output":"planet mars","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"earth michigan","expected":"detroit","output":"detroit","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"mountain range ozymandias","expected":"the colossus of rhodes","output":"poem","usage":{"prompt_tokens":60,"completion_tokens":2,"total_tokens":62}}
+{"input":"glacier lotus","expected":"ice flower","output":"i'm sorry, but \"glacier lotus\" does not have a known association.","usage":{"prompt_tokens":57,"completion_tokens":18,"total_tokens":75}}
+{"input":"lily obsidian","expected":"black lily","output":"lily.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"loch ness monster tea","expected":"tea monster","output":"mythical","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"sun titanic","expected":"sunken","output":"heart of the ocean","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fire super plant","expected":"super fire","output":"pyro petal","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"moon mountain","expected":"crescent","output":"space tourism","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dust wine","expected":"vinegar","output":"\"sommelier\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fire trap swamp","expected":"fire swamp","output":"dungeons & dragons","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"rat wind","expected":"rat king","output":"mouse trap","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"meteor stone","expected":"meteorite","output":"meteorite","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"boulder lighthouse","expected":"statue of liberty","output":"sea shore","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ash potato","expected":"couch potato","output":"pokémon","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"beach quicksand","expected":"trap","output":"peril","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"soil soil","expected":"dirt","output":"earth","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"beach bottle","expected":"message","output":"message","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"goose water","expected":"gosling","output":"duck","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mummy rocket","expected":"space mummy","output":"the mummy returns","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"engine ghost ship","expected":"pirate ship","output":"pirate ship","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"island lizard","expected":"iguana","output":"komodo dragon","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"glacier nymph","expected":"snow white","output":"frozen beauty","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"alcohol venus flytrap","expected":"drunk trap","output":"little shop of horrors","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"fish seeds","expected":"fish food","output":"aquarium.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"dandelion sandman","expected":"dream","output":"neil gaiman","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"earth punch","expected":"quake","output":"one punch man","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"tree witch","expected":"wand","output":"willow from \"willow\"","usage":{"prompt_tokens":55,"completion_tokens":7,"total_tokens":62}}
+{"input":"lily venus flytrap","expected":"lily flytrap","output":"lily venus flytrap -> venus flytrap","usage":{"prompt_tokens":59,"completion_tokens":9,"total_tokens":68}}
+{"input":"tea tornado","expected":"teacup","output":"\"chaos\"","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"mud soggy toast","expected":"muddy toast","output":"muddy bread","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"stew wish","expected":"stewish","output":"dinglehopper.","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"everest wind","expected":"jetstream","output":"mountain","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"fire trap lotus","expected":"fire lotus","output":"\"magic: the gathering\"","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"feather phoenix","expected":"quill","output":"\"rising from the ashes\"","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"engine paper","expected":"blueprint","output":"blueprint","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"egypt sun","expected":"ra","output":"pyramids","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"river tree","expected":"paper","output":"nature","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"boat stone","expected":"anchor","output":"skippering","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"medicine water","expected":"potion","output":"healing potion","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"destruction tea","expected":"terrorist","output":"tea.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"park water","expected":"fountain","output":"water fountain","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"cyborg planet","expected":"cybertron","output":"sci-fi","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"car fire","expected":"crash","output":"emergency","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"hurricane lunar eclipse","expected":"blood moon","output":"natural disasters","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"mountain dew ocean","expected":"mountain dew ocean blast","output":"mountain dew mountain","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dragon star","expected":"constellation","output":"fantasy","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"lily lotus","expected":"nymph","output":"lotus flower","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"super volcano supervolcano","expected":"super super volcano","output":"eruption","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"crash windmill","expected":"don quixote","output":"accident","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fire milkshake","expected":"hot fudge sundae","output":"the word associated with \"fire milkshake\" is unconventional.","usage":{"prompt_tokens":56,"completion_tokens":12,"total_tokens":68}}
+{"input":"seed tree","expected":"apple","output":"growth","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fruit tornado","expected":"fruit salad","output":"fruit ninja","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"mars plant","expected":"potato","output":"the martian","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"earth furniture","expected":"chair","output":"i'm sorry, but \"earth furniture\" does not seem to be associated with any particular word or phrase.","usage":{"prompt_tokens":55,"completion_tokens":22,"total_tokens":77}}
+{"input":"soup tea","expected":"consommé","output":"\"hot beverage\"","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"buddha river","expected":"karma","output":"enlightenment","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"boulder steamroller","expected":"flat rock","output":"\"boulder\" is associated with rocks, large stones, or colorado.","usage":{"prompt_tokens":57,"completion_tokens":14,"total_tokens":71}}
+{"input":"plant werewolf","expected":"wolfsbane","output":"lupin","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"train water","expected":"submarine","output":"locomotive","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"dandelion patch locomotive","expected":"dandelion express","output":"unrelated.","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"mountain surfboard","expected":"snowboard","output":"snowboarding","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"swamp tree","expected":"mangrove","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"smoke submarine","expected":"periscope","output":"yellow submarine","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire pond","expected":"soup","output":"firefly","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"brick vase","expected":"mosaic","output":"nothing associated.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"lake shipwreck","expected":"treasure","output":"titanic","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"brick smoke","expected":"chimney","output":"firehouse","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"date fire","expected":"romance","output":"firefighter","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"aeolus ice cream","expected":"ice cream sandwich","output":"aeolus ice cream is not a recognized term or reference.","usage":{"prompt_tokens":58,"completion_tokens":14,"total_tokens":72}}
+{"input":"frisbee stone","expected":"discus","output":"flintstones.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"tarzan tornado","expected":"tornadzan","output":"jungle tornado","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"ash plant","expected":"tobacco","output":"harry potter","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"jungle tsunami","expected":"tiger","output":"natural disaster","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"boat farm","expected":"plantation","output":"shipyard","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"helicopter train","expected":"choopper","output":"airwolf","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire wind","expected":"smoke","output":"avatar","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"avalanche jungle","expected":"snow leopard","output":"avalanche: snow","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"brick mountain range","expected":"great wall of china","output":"great wall of china","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"smoke storm","expected":"thunder","output":"wildfire","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"pudding water","expected":"jelly","output":"chocolate factory","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"aurora wind","expected":"borealis","output":"northern lights","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"bottle window","expected":"spy","output":"glass","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"mountain range road","expected":"highway","output":"rocky road","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"ice snow cone","expected":"cold","output":"frozen treat","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"barbecue car","expected":"barbecar","output":"grill.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"allergy lens","expected":"contact","output":"contact lenses","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"geysir statue","expected":"gargoyle","output":"icelandic landmark","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"earth stone","expected":"rock","output":"infinity gauntlet","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"destruction planet","expected":"asteroid","output":"krypton.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"steam stone","expected":"geysir","output":"rocky","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"beer dust","expected":"pint","output":"there is no specific association or reference to \"beer dust.\"","usage":{"prompt_tokens":55,"completion_tokens":12,"total_tokens":67}}
+{"input":"swamp tractor","expected":"monster truck","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"prayer temple","expected":"worship","output":"religious worship","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fairy wine","expected":"tipsy","output":"pixie dust","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"perfume perfume","expected":"scent","output":"fragrance","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"date water","expected":"dating","output":"the word associated with \"date water\" is \"hydration\".","usage":{"prompt_tokens":55,"completion_tokens":12,"total_tokens":67}}
+{"input":"drunk fog","expected":"foggy","output":"hangover","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"rover tree","expected":"dogwood","output":"mars","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"steampunk tide","expected":"steam tide","output":"\"victorian era meets futuristic technology\"","usage":{"prompt_tokens":57,"completion_tokens":8,"total_tokens":65}}
+{"input":"lightning pot","expected":"alchemy","output":"harry potter","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"earth photographer","expected":"landscape","output":"nature documentaries","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"delta seeds","expected":"crops","output":"delta airlines","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mud thunderbird","expected":"mudbird","output":"dirty harry","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"steam weed","expected":"vaporizer","output":"vaporize","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"beach lizard","expected":"gecko","output":"sandy reptile","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dust storm solar","expected":"solar storm","output":"mad max","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"balsamic vinegar earth","expected":"truffle","output":"\"salad dressing\"","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"grass mountain range","expected":"prairie","output":"the word associated with \"grass mountain range\" is \"pastoral landscape.\"","usage":{"prompt_tokens":56,"completion_tokens":15,"total_tokens":71}}
+{"input":"mud sushi","expected":"muddy sushi","output":"not found","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"seaweed wine","expected":"sake","output":"aquaman","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dust pencil","expected":"eraser","output":"eraser.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"hurricodile tornado","expected":"tornacane","output":"weather","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"crystal tree","expected":"amethyst","output":"swarovski","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"bamboo wind","expected":"flute","output":"kung fu panda","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"hula lily","expected":"hula girl","output":"luau","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"chocolate milk mud","expected":"brown","output":"chocolate milk","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"fire lighthouse","expected":"beacon","output":"beacon","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"engine stoner","expected":"mechanic","output":"engine: car","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"pollen weed","expected":"cannabis","output":"allergies","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire wet","expected":"dry","output":"steam","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"honey meade","expected":"mead","output":"harry potter","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"river rocket","expected":"water rocket","output":"speedboat","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mirror mountain range","expected":"mt. rushmore","output":"reflection","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"apple stone","expected":"newton","output":"forbidden fruit.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"marsh nessie","expected":"loch","output":"loch ness","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"glass loch ness monster","expected":"monocle","output":"reflection","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"dutch earth","expected":"tulip","output":"netherlands","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"hot tea wind","expected":"cool tea","output":"\"blowin' in the wind\"","usage":{"prompt_tokens":56,"completion_tokens":9,"total_tokens":65}}
+{"input":"engine wine","expected":"fuel","output":"fast & furious","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"laser steam","expected":"steam punk","output":"sci-fi","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"car steamboat","expected":"carboat","output":"steamboat.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"beer plant","expected":"hops","output":"microbrewery","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"bird earth","expected":"chicken","output":"sky","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"car sand","expected":"dune buggy","output":"beach","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"party water","expected":"pool","output":"\"cocktail\"","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"asia lake","expected":"caspian","output":"great wall","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"telescope train","expected":"trainspotter","output":"railroad","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"apple pie plant","expected":"apple tree","output":"apple pie plant = rhubarb","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"eruption super volcano","expected":"super eruption","output":"volcano","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"bog fjord","expected":"mire","output":"norway","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dust earth","expected":"planet","output":"the phrase \"dust earth\" does not seem to be associated with a specific word or pop culture reference.","usage":{"prompt_tokens":56,"completion_tokens":22,"total_tokens":78}}
+{"input":"earth sandstorm","expected":"dune","output":"mad max","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"avalanche avalanche","expected":"snow","output":"snow","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"clean phoenix","expected":"dove","output":"cleaning services","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"engine telescope","expected":"hubble","output":"\"james webb space telescope\"","usage":{"prompt_tokens":55,"completion_tokens":6,"total_tokens":61}}
+{"input":"compost plant","expected":"fertilizer","output":"sustainable gardening","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"earth fishbowl","expected":"aquarium","output":"underwater aquarium","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"paper storm","expected":"umbrella","output":"the phrase \"paper storm\" is associated with the excitement of a flurry of documents or papers flying around like in a chaotic office scene from a movie.","usage":{"prompt_tokens":55,"completion_tokens":30,"total_tokens":85}}
+{"input":"avalanche tatooine","expected":"hoth","output":"star wars","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"fog plant","expected":"mushroom","output":"botanical pokémon","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"ash train station","expected":"ash ketchum","output":"\"pokemon\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"planet planet","expected":"star","output":"pluto","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mos eisley water","expected":"moist eisley","output":"tatooine","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"bong weed","expected":"stoner","output":"marijuana","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"incense land","expected":"sage","output":"magical forest","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dust water","expected":"mud","output":"mud","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"hamster wind","expected":"hamster wheel","output":"wheel","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"earth mouse","expected":"hamster","output":"computer","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"cinderella tornado","expected":"rapunzel","output":"twister","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"satellite wave","expected":"radio","output":"\"communication\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"tree vulture","expected":"carrion","output":"no association.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"pina colada volcano","expected":"lava flow","output":"escape","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"leviathan volcano","expected":"krakatoa","output":"leviathan - massive","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"obsidian tree","expected":"treehouse","output":"minecraft","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"humpback mountain","expected":"camel","output":"mountains","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"chia dandelion","expected":"chia pet","output":"garden","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mountain range time","expected":"erosion","output":"rocky mountains","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust moon","expected":"lunar","output":"dark side of the moon","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"engine seed","expected":"carrot","output":"i cannot find any direct association with the phrase \"engine seed.\" please provide more context or rephrase your query.","usage":{"prompt_tokens":55,"completion_tokens":23,"total_tokens":78}}
+{"input":"bog yellowstone","expected":"mud volcano","output":"geyser","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"narcissus narcissus","expected":"daffodil","output":"flower","usage":{"prompt_tokens":59,"completion_tokens":1,"total_tokens":60}}
+{"input":"mountain dew wine","expected":"mountain wine","output":"beavis and butt-head","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"space ship steam","expected":"time machine","output":"spaceship","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"tea tunnel","expected":"tunnel of fudge","output":"alice in wonderland","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"sea tea","expected":"tease","output":"sea shanty","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"cowboy mud","expected":"cow","output":"wild west","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"earth tractor","expected":"farm","output":"moist agriculture","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"ice tractor","expected":"snow plow","output":"snowpiercer","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"energy lake","expected":"electric eel","output":"power plant","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"rubber tea","expected":"rubber ducky","output":"\"bouncy\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"flower rocket","expected":"space flower","output":"spacex","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"car cloud","expected":"flying car","output":"drive","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"rings sand","expected":"sandals","output":"lord of the rings","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"brick cactus","expected":"prickly","output":"southwest aesthetic","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"adobe dandelion patch","expected":"adobe patch","output":"dandelion","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"lake rocket","expected":"space","output":"speedboat","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"tornado troll","expected":"tornadroll","output":"\"twister\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"oasis train station","expected":"oasis station","output":"platform 9¾","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"smoked duck water","expected":"duck soup","output":"duck a l'orange","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"vineyard vineyard","expected":"winery","output":"grapevine","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"pope tornado","expected":"popetornado","output":"the phrase \"pope tornado\" does not have a commonly known association.","usage":{"prompt_tokens":56,"completion_tokens":15,"total_tokens":71}}
+{"input":"funnel cake plant","expected":"cotton candy","output":"i'm sorry, i don't have any specific associations for \"funnel cake plant.\"","usage":{"prompt_tokens":57,"completion_tokens":18,"total_tokens":75}}
+{"input":"dandelion patch diamond","expected":"diamond ring","output":"diamonds","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"delta dragon","expected":"draco","output":"pokémon","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire gosling","expected":"ryan","output":"ryan","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"nile plant","expected":"papyrus","output":"papyrus","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire pencil","expected":"match","output":"pencil","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mountain range penguin","expected":"emperor","output":"antarctica","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"engine tractor","expected":"tank","output":"farm machine","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"plant sword","expected":"thorn","output":"excalibur","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"earth wall","expected":"fence","output":"defense.","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"plant smurf","expected":"smurfberry","output":"smurfs","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"earth mad hatter","expected":"alice","output":"alice in wonderland","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"canyon fjord","expected":"gorge","output":"grand canyon","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dust pig","expected":"pigpen","output":"no pop culture reference found.","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"mountain range salt","expected":"salt lake","output":"pepper","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"sea serpent volcano","expected":"krakken","output":"kraken lava","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"town water","expected":"port","output":"aqueduct.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fire frog","expected":"boiling frog","output":"kermit.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"lily pufferfish","expected":"pufferlily","output":"sorry, \"lily pufferfish\" does not call a specific association to mind.","usage":{"prompt_tokens":58,"completion_tokens":18,"total_tokens":76}}
+{"input":"ash steamroller","expected":"pancake","output":"pokémon","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire super super volcano","expected":"super super super volcano","output":"supervolcano","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"dust unicorn","expected":"glitter","output":"mythical creature.","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"mercury water","expected":"quicksilver","output":"planet.","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"boiling frog seed","expected":"frogurt","output":"this doesn't make sense.","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"fire lens","expected":"magnifying glass","output":"camera lens","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"boiling frog wine","expected":"hot toddy","output":"wine","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"holy water paper","expected":"bible","output":"exorcism","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"lake snow cone","expected":"ice cone","output":"summer","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"boat vacuum","expected":"hoover dam","output":"the word associated with \"boat vacuum\" is \"cleaning.\"","usage":{"prompt_tokens":55,"completion_tokens":13,"total_tokens":68}}
+{"input":"buddha cloud","expected":"nirvana","output":"enlightenment","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"canal ocean","expected":"suez","output":"water","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"carnival earth","expected":"mardi gras","output":"carnival earth - no association.","usage":{"prompt_tokens":57,"completion_tokens":8,"total_tokens":65}}
+{"input":"hangover wish","expected":"hangwish","output":"the hangover","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"sharknado swamp","expected":"swampnado","output":"sharknado.","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"mountain smaug","expected":"lonely mountain","output":"the hobbit","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"forest park","expected":"camping","output":"nature","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"tornado window","expected":"broken window","output":"twister","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ocean star","expected":"sea star","output":"aquaman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"balloon fire","expected":"pop","output":"hot air balloon","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"boat bullet train","expected":"cruise ship","output":"transportation","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"lake new york","expected":"central park","output":"central park","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"steam engine sun","expected":"solar power","output":"solar power","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"rocket train","expected":"bullet train","output":"spacex","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mars mountain","expected":"olympus","output":"mars rover","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"airship sun","expected":"sunship","output":"hot air balloon","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire star wars","expected":"darth vader","output":"lightsaber","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"beer lily","expected":"budweiser","output":"cheers","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"flower mountain range","expected":"alps","output":"terraced rice fields","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dustbin rocket","expected":"space junk","output":"guardians of the galaxy","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"fire mud","expected":"brick","output":"volcano","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mountain dew pot","expected":"mountain high","output":"potatoes","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"lava ruby","expected":"garnet","output":"volcano","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"avalanche milkshake","expected":"snowcone","output":"avalanche.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"iceland tornado","expected":"ice tornado","output":"does not compute.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"ash sandwich","expected":"burnt","output":"pokémon","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire sandal","expected":"flip flop","output":"hades","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"telescope wine","expected":"astronomy","output":"telescope","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fish marijuana","expected":"baked fish","output":"seth rogen","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"brick earth","expected":"house","output":"construction","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"stone stone","expected":"boulder","output":"rock-solid","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"earth tatooine","expected":"luke","output":"star wars","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dandelion patch lake","expected":"duck","output":"flower","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"dandelion roll fire","expected":"blowtorch","output":"the word associated with \"dandelion roll fire\" is \"blowtorch.\"","usage":{"prompt_tokens":58,"completion_tokens":17,"total_tokens":75}}
+{"input":"engine fan","expected":"turbine","output":"overheating","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"clean stone","expected":"slate","output":"flintstones","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"solar system steampunk","expected":"steam solar system","output":"sci-fi aesthetics","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"mountain range popcorn","expected":"popcorn mountain","output":"rocky mountains","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"moon steampunk","expected":"clockwork","output":"steampunk","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"canyon earth","expected":"grand canyon","output":"grand canyon","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"blade stone","expected":"axe","output":"sword.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"swamp turtle","expected":"snapper","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"paper surfboard","expected":"paperboard","output":"surfing","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"earth quetzalcoatl","expected":"tlaloc","output":"aztec mythological deity","usage":{"prompt_tokens":59,"completion_tokens":5,"total_tokens":64}}
+{"input":"acid rain brick","expected":"tombstone","output":"the association is \"weathering.\"","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"mountain snowman","expected":"yeti","output":"abominable snowman","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"glass tornado","expected":"shatter","output":"natural disaster","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dust narcissus","expected":"narcissism","output":"flowers","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"honey mars","expected":"sweet","output":"mars","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"dune planet","expected":"tatooine","output":"arrakis","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"earth stage","expected":"theater","output":"super mario bros.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"flat earth wind","expected":"frisbee","output":"flat earth society","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dandelion patch steampunk","expected":"steampunk dandelion","output":"dandelion patch - steampunk","usage":{"prompt_tokens":60,"completion_tokens":8,"total_tokens":68}}
+{"input":"mountain range truck","expected":"semi","output":"rocky mountains","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust bunny steam","expected":"steam bunny","output":"\"spirited away\"","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"bulldozer tsunami","expected":"tsunadozer","output":"natural disaster","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"bamboo earth","expected":"panda","output":"panda.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"farm mountain","expected":"goat","output":"hill","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"fire mermaid","expected":"siren","output":"the little mermaid","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"car racecar","expected":"race","output":"fast and furious","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"incense wine","expected":"sacrifice","output":"rituals","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"ash tobacco","expected":"cigarette","output":"cigarettes","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"cave dandelion","expected":"cave painting","output":"underground flower","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"mud swamp","expected":"quagmire","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"beach black hole","expected":"event horizon","output":"interstellar","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"earth spy","expected":"agent","output":"undercover martian","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"nuclear submarine steam","expected":"nuclear power plant","output":"the hunt for red october","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"adobe wish","expected":"abracadabra","output":"photoshop","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"emerald stone","expected":"jade","output":"gemstone","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"cactus stone","expected":"petrified wood","output":"desert","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"storm super volcano","expected":"super storm","output":"catastrophic explosion","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"constellation water","expected":"aquarius","output":"aquarius","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"car tea bag","expected":"tea car","output":"tea bag","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"unicorn wave","expected":"sea horse","output":"mythical creatures","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"mirror mountain","expected":"echo","output":"snow white","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"angel cactus","expected":"cupid","output":"there is no direct association between the words \"angel\" and \"cactus\".","usage":{"prompt_tokens":56,"completion_tokens":16,"total_tokens":72}}
+{"input":"camera mountain","expected":"snapshot","output":"photography","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mountain shark","expected":"megalodon","output":"jaws","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire sauna","expected":"sweat","output":"hot 🔥","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"mountain range vinegar","expected":"sour grapes","output":"rocky.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"glass venus flytrap","expected":"terrarium","output":"little shop of horrors","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"incense swamp","expected":"mosquito","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ash urine","expected":"saltpeter","output":"no association.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"mountain raisin","expected":"sultana","output":"raisin ranch","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"coral coral","expected":"reef","output":"reef","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"catholic church mountain dew","expected":"holy mountain dew","output":"religion","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"north america tornado","expected":"kansas","output":"twister","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"lightning marijuana","expected":"skunk","output":"flash","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"mountain dew train","expected":"mountain train","output":"mountain dew.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust rice","expected":"rice pudding","output":"grains","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"cheese lava","expected":"swiss","output":"fondue","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire komodo dragon","expected":"fire breathing dragon","output":"komodo dragon","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"christmas train","expected":"polar express","output":"polar express","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"planet robot","expected":"cyborg","output":"robotic planet","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"bomb soil","expected":"landmine","output":"explosive fertilizer","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"mountain dew vampire","expected":"sparkling vampire","output":"twilight","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"golem sandstorm","expected":"sand golem","output":"darude","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"smoke water","expected":"fog","output":"\"steam\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire prison","expected":"jailbreak","output":"hell","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"sun tree","expected":"fruit","output":"critical role","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"ash pickle","expected":"pickaxe","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"eclipse glass","expected":"sunglasses","output":"solar phenomena","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fjord weed","expected":"kratom","output":"aquatic plants","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"pig wind","expected":"flying pig","output":"pig in a blanket","usage":{"prompt_tokens":55,"completion_tokens":5,"total_tokens":60}}
+{"input":"earth tree","expected":"forest","output":"environment","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"cough forest","expected":"coughdrop","output":"sneeze trees","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"robot sandstorm","expected":"sandbot","output":"\"darude\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"hydroelectricity wave","expected":"tidal power","output":"renewable energy.","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"fire hula","expected":"fire dance","output":"performers","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"space plant train","expected":"space train","output":"space plant: alien\ntrain: conductor","usage":{"prompt_tokens":56,"completion_tokens":8,"total_tokens":64}}
+{"input":"nothing smoke","expected":"vapor","output":"smoke and mirrors","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"cake wind","expected":"frosting","output":"bake.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"coconut milk tornado","expected":"coconut milkshake","output":"no association found.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"angel sandstorm","expected":"sand angel","output":"sandstorm","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"snow whale","expected":"beluga","output":"moby dick","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"mud venus","expected":"adam","output":"art","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"dust sperm","expected":"baby","output":"i'm sorry, i can't provide a response to that.","usage":{"prompt_tokens":56,"completion_tokens":13,"total_tokens":69}}
+{"input":"cough incense","expected":"censer","output":"sage","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dust leaf","expected":"compost","output":"autumn","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"campfire honey","expected":"smores","output":"marshmallow","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"planet tea","expected":"plantea","output":"jupiter","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"grape seed","expected":"raisin","output":"wine","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"giant mushroom volcano","expected":"mega mushroom","output":"super mario","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fjord fjord","expected":"glacier","output":"norwegian landscape","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"car dust","expected":"rust","output":"fast and furious","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"emulsion obsidian","expected":"pitch","output":"obsidian potion","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"fjord soup","expected":"sop","output":"viking's delicacy","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"drunk river","expected":"drift","output":"hangover","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain dew wave","expected":"surge","output":"surfing","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dragon spaceship","expected":"space dragon","output":"sci-fi fantasy","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"onyx water","expected":"sink","output":"onyx","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"steam dragon wind","expected":"air dragon","output":"steam: vapor\ndragon: fire\nwind: air","usage":{"prompt_tokens":56,"completion_tokens":11,"total_tokens":67}}
+{"input":"planet pollen","expected":"bee","output":"hay fever","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mountain dew oasis","expected":"mountain oasis","output":"mountain dew oasis","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"boulder fog","expected":"stonehenge","output":"rocky mountain","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"earthquake engine","expected":"tremor","output":"not associated.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"mountain range star","expected":"big dipper","output":"rocky mountains","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"lily snow","expected":"snowdrop","output":"i'm sorry, but \"lily snow\" doesn't appear to be associated with any specific word or phrase.","usage":{"prompt_tokens":56,"completion_tokens":23,"total_tokens":79}}
+{"input":"coconut milk water","expected":"coconut water","output":"coconut","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"chili lake","expected":"cayenne","output":"spicy soup","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire potato","expected":"chip","output":"hot potato","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"sand snake","expected":"cobra","output":"oberyn martell","usage":{"prompt_tokens":55,"completion_tokens":5,"total_tokens":60}}
+{"input":"iceland plant","expected":"lichen","output":"bjork","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"candle flower","expected":"birthday","output":"firefly","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"snowmobile vacuum","expected":"snowblower","output":"there is no association between \"snowmobile\" and \"vacuum.\"","usage":{"prompt_tokens":56,"completion_tokens":14,"total_tokens":70}}
+{"input":"swamp thing wine","expected":"swamp wine","output":"swamp thing","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"smoke spy","expected":"smoke screen","output":"james bond","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"crocodile hurricane","expected":"hurricodile","output":"killer croc","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"ash ash ketchum","expected":"pokemon","output":"pikachu","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"earth horse","expected":"centaur","output":"zodiac strncmp taurus","usage":{"prompt_tokens":55,"completion_tokens":5,"total_tokens":60}}
+{"input":"mountain park","expected":"yosemite","output":"hiking","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"lake stone","expected":"lighthouse","output":"pebble","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"earth lake","expected":"swamp","output":"water","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"lake potato","expected":"potato chip","output":"potato creek","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fire flower stone","expected":"fire stone","output":"fire flower stone - super mario","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"cannabis tree","expected":"hemp","output":"marijuana","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dust fish","expected":"starfish","output":"cloudy water","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"geyser steam engine","expected":"steam power","output":"old faithful","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"dandelion patch hydrogen","expected":"hydrogen bomb","output":"chemistry","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"coconut mud","expected":"muddy coconut","output":"tropical fruit.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"hawaii wind","expected":"hula","output":"\"breezy\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"mountain robot","expected":"voltron","output":"transformer","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain range wind","expected":"aeolus","output":"rocky mountains","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dandelion jordan","expected":"michael","output":"there is no pop culture reference associated with \"dandelion jordan.\"","usage":{"prompt_tokens":58,"completion_tokens":14,"total_tokens":72}}
+{"input":"bullet train fire","expected":"bullet","output":"emergency","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"star surfer","expected":"superman","output":"\"galaxy surfer\"","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"carnivore wind","expected":"vulture","output":"tornado","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"ash water","expected":"puddle","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"catholic church water","expected":"baptism","output":"holy water","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"brick dam","expected":"hydroelectricity","output":"the word associated with \"brick dam\" is \"construction.\"","usage":{"prompt_tokens":55,"completion_tokens":12,"total_tokens":67}}
+{"input":"brontosaurus water","expected":"swimming pool","output":"jurassic park","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"hay tornado","expected":"straw","output":"dorothy.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"muddy sushi plant","expected":"muddy plant","output":"i'm sorry, \"muddy sushi plant\" does not seem to be associated with any particular word or phrase.","usage":{"prompt_tokens":57,"completion_tokens":23,"total_tokens":80}}
+{"input":"iceberg loch ness monster","expected":"iceberg lettuce","output":"\"mystery\"","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"cheese sun","expected":"cheeseburger","output":"there is no direct association between \"cheese\" and \"sun.\"","usage":{"prompt_tokens":56,"completion_tokens":14,"total_tokens":70}}
+{"input":"america avalanche","expected":"snowden","output":"the word associated with \"america avalanche\" is \"rocky mountains.\"","usage":{"prompt_tokens":56,"completion_tokens":14,"total_tokens":70}}
+{"input":"soil telescope","expected":"archaeologist","output":"galileo","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"viking wind","expected":"valkyrie","output":"norse mythology","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"storm tea","expected":"tempest","output":"\"earl grey\"","usage":{"prompt_tokens":55,"completion_tokens":5,"total_tokens":60}}
+{"input":"coral reef tea","expected":"tea coral","output":"underwater.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"firefly incense","expected":"lantern","output":"serenity","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hangover tsunami","expected":"hangtsunami","output":"the hangover movie franchise","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"pirate sandstorm","expected":"sand pirate","output":"\"pirate ship\"","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"flower sake","expected":"sakura","output":"cherry blossom","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"snowman tea","expected":"hot chocolate","output":"frosty the snowman","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"earth kali","expected":"shiva","output":"kali ma","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"perfume seeds","expected":"flowers","output":"garden.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"aztec stone","expected":"calendar","output":"indiana jones","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fjord star","expected":"aurora","output":"fjord - norway","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"brick fire","expected":"kiln","output":"fireplace","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"bird sand","expected":"ostrich","output":"desert.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"skimming stone","expected":"skipping","output":"skipping rocks.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"boat snowmobile","expected":"sleigh","output":"vehicle","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"dust trump","expected":"dump","output":"particles","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"star train station","expected":"star station","output":"starship","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"planet wine","expected":"pluto","output":"mars","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire jet ski","expected":"fire ski","output":"water sport","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"glass shard","expected":"broken","output":"sharp object","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"flood rainbow","expected":"noah","output":"rainbow.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"popcorn tornado","expected":"popcorn storm","output":"twister","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"kiln moon","expected":"moon rock","output":"the phrase \"kiln moon\" does not have a direct association or pop culture reference.","usage":{"prompt_tokens":56,"completion_tokens":18,"total_tokens":74}}
+{"input":"poseidon tree","expected":"trident","output":"poseidon's trident","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"fire sake","expected":"saki","output":"naruto","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"destruction surfer","expected":"hulk","output":"apocalypse beach","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"car stone","expected":"wheel","output":"flintstones","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"car perfume","expected":"chauffeur","output":"scent","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"avalanche tea party","expected":"snowball fight","output":"the word associated with \"avalanche tea party\" is unconventional.","usage":{"prompt_tokens":57,"completion_tokens":13,"total_tokens":70}}
+{"input":"lake weed","expected":"lily pad","output":"aquatic plant","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"swamp system","expected":"sewage","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"flower pope","expected":"rosary","output":"roses","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"ash bear","expected":"smokey","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"earth present","expected":"gift","output":"\"planet\"","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"cactus curtain","expected":"tent","output":"desert.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"vampire weed","expected":"count","output":"the word associated with \"vampire weed\" is \"fictional.\"","usage":{"prompt_tokens":56,"completion_tokens":14,"total_tokens":70}}
+{"input":"earth sea monster","expected":"kraken","output":"leviathan","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"palm tree phoenix","expected":"phoenix palm","output":"desert island","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"beef bourguignon plant","expected":"vegetarian","output":"\"beef bourguignon\"","usage":{"prompt_tokens":59,"completion_tokens":7,"total_tokens":66}}
+{"input":"dragon dragon","expected":"dragon egg","output":"fire","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"dandelion fish","expected":"pufferfish","output":"there is no direct association between \"dandelion fish,\" but both are separate entities.","usage":{"prompt_tokens":57,"completion_tokens":18,"total_tokens":75}}
+{"input":"engine radio","expected":"transistor","output":"music","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"cocaine plant","expected":"coca","output":"illegal","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"ice venus flytrap","expected":"ice trap","output":"little shop of horrors","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"diamond diamond","expected":"diamond block","output":"shine","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"avalanche eagle","expected":"snowy owl","output":"mountain","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"beach telescope","expected":"astronomer","output":"pirates of the caribbean","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"oil water","expected":"emulsion","output":"separate","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"devil dust","expected":"demon","output":"cocaine.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"cheese stone","expected":"roquefort","output":"pizza","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"balsamic vinegar lake","expected":"lake garda","output":"this phrase is not commonly associated with any specific word or reference.","usage":{"prompt_tokens":58,"completion_tokens":13,"total_tokens":71}}
+{"input":"mushroom sun","expected":"smile","output":"mario- super mario bros","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"money mud","expected":"lottery","output":"cash flood","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"tea train station","expected":"platform","output":"platform 9 3/4","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"curtain mountain","expected":"stage","output":"the sound of music","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"sun sun","expected":"sunflower","output":"sunny","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dandelion patch pope","expected":"blessing","output":"spring","usage":{"prompt_tokens":58,"completion_tokens":1,"total_tokens":59}}
+{"input":"dust lily","expected":"angel","output":"flower","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ash pencil","expected":"crayon","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"drunk tornado","expected":"frat party","output":"disaster","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"goose tornado","expected":"tornagoose","output":"ducknado","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fire sushi","expected":"wasabi","output":"sushi sushi","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fanboy lake","expected":"nerd","output":"comic books","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"disaster lily","expected":"calamity","output":"the word associated with \"disaster lily\" is chaos.","usage":{"prompt_tokens":57,"completion_tokens":13,"total_tokens":70}}
+{"input":"beach dustbin","expected":"litter","output":"sand","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"mario wind","expected":"flying mario","output":"power","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"christmas tree tea","expected":"tea tree","output":"holiday cheer","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"space ship wind farm","expected":"solar panel","output":"sci-fi futuristic concept.","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"dune star","expected":"star wars","output":"tatooine","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"earth easter","expected":"egg","output":"holiday","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"chili fire","expected":"hot","output":"spicy.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"forest steampunk","expected":"steam forest","output":"steampunk","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"obsidian tea","expected":"hot tea","output":"minecraft","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"moon sea star","expected":"moon star","output":"night","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"dragon sandstorm","expected":"sand dragon","output":"dragons blowing sandstorms.","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"dune mountain dew","expected":"mountain dune","output":"sci-fi fantasy.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"mermaid venus flytrap","expected":"mermaid flytrap","output":"siren's garden","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"ninja smoke","expected":"assassin","output":"ninjas","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"damn tornado","expected":"damnado","output":"natural disaster","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"obsidian onyx","expected":"black","output":"gemstones","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"lake pineapple","expected":"pina colada","output":"spongebob squarepants.","usage":{"prompt_tokens":55,"completion_tokens":7,"total_tokens":62}}
+{"input":"mud surfer","expected":"muddy","output":"not applicable.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"candle water","expected":"wax","output":"fire","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"lens water","expected":"microscope","output":"telescope","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"paper paper","expected":"book","output":"scissors","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"batman wind","expected":"batmobile","output":"gotham city","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fireworks water","expected":"splash","output":"fourth of july","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"freedom storm","expected":"revolution","output":"revolution","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"dust storm whale","expected":"dust whale","output":"moby dick","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"helicopter tank","expected":"helitank","output":"apocalypse now","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"america hawaii","expected":"obama","output":"vacation","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ash pig","expected":"pork","output":"pokémon","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"bong mountain dew","expected":"mountain dew baja blast","output":"420","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"sun teapot","expected":"sun tea","output":"no association found.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"hot spring lighthouse","expected":"spa","output":"lighthouse","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"lake punch","expected":"punch bowl","output":"water.","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fossil mountain dew","expected":"fossil fuel","output":"jurassic park","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"window wood","expected":"frame","output":"sill","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"gnome tornado","expected":"tornadgnome","output":"garden gnome","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"plant president","expected":"potus","output":"fictional.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fire helicopter","expected":"firefighter","output":"emergency rescue","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"hay plant","expected":"horse","output":"watering","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"city fire","expected":"war","output":"emergency","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"crab plant","expected":"crabgrass","output":"seafood","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"allergy allergy","expected":"sneeze","output":"sneeze","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dust flying fish","expected":"flying dust","output":"mythical","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"sea serpent tea","expected":"tea serpent","output":"mythical","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"lake valkyrie","expected":"nixie","output":"valkyrie","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"star wolf","expected":"lupus","output":"star fox","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"flying pig water","expected":"pigcasso","output":"pigs can't fly.","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"dust fog","expected":"smog","output":"visibility","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"candle swamp","expected":"jack-o-lantern","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"cough tree","expected":"cedar","output":"cherry tree","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"ash system","expected":"cash","output":"pokémon","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"lake whirlpool","expected":"vortex","output":"whirlpool","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"earth money tree","expected":"bank","output":"\"money\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dust tree","expected":"wood","output":"wood","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"dust mud","expected":"clay","output":"dirty boots","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"forest party","expected":"rave","output":"ewoks","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fire wine","expected":"alcohol","output":"red wedding","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"super plant wind","expected":"super tree","output":"super mario","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain sand golem","expected":"mountain golem","output":"\"sand golem\"","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"beach curtain","expected":"toga","output":"beach towel","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"bird fog","expected":"foghorn","output":"alfred hitchcock","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"fog party","expected":"fog machine","output":"there is no specific association for \"fog party.\"","usage":{"prompt_tokens":56,"completion_tokens":11,"total_tokens":67}}
+{"input":"dust sharknado","expected":"dustnado","output":"sharknado","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"starfish wind","expected":"flying starfish","output":"sea creatures","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"meteor mountain range","expected":"crater","output":"meteor shower","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"iceberg wine","expected":"icewine","output":"titanic","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"google volcano","expected":"googlecano","output":"eruption","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"solar system tea","expected":"solar tea","output":"\"galaxy tea\"","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"apple engine","expected":"apple car","output":"apple orchard","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"sharknado wind","expected":"sharkicane","output":"\"sharknado\"","usage":{"prompt_tokens":58,"completion_tokens":6,"total_tokens":64}}
+{"input":"ash weed","expected":"joint","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"continent lake","expected":"america","output":"great salt lake","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"broken window hurricane","expected":"shattered glass","output":"natural disaster","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ash barbecue","expected":"burger","output":"grill","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dust storm wall","expected":"sand castle","output":"mad max","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"america dragon","expected":"bald eagle","output":"jake long","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ocean steampunk","expected":"steampunk pirate","output":"underwater city","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"lizard rocket","expected":"space lizard","output":"spacex","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain dew venus flytrap","expected":"mountain trap","output":"venus flytrap","usage":{"prompt_tokens":60,"completion_tokens":4,"total_tokens":64}}
+{"input":"asia island","expected":"japan","output":"japan","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"dragon foggy ghost","expected":"dragon ghost","output":"game of thrones","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"earth planet","expected":"moon","output":"gravity","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"high prayer","expected":"heaven","output":"faith","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fruit lava","expected":"peach","output":"volcano","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"eruption iceland","expected":"bjork","output":"volcano","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"bong island","expected":"jamaica","output":"stranded","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"edelweiss mountain","expected":"sound of music","output":"the sound of music","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"marijuana mountain range","expected":"rocky mountain high","output":"dr. strange.","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"earth rice krispies","expected":"snap","output":"cereal","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dandelion weed","expected":"marijuana","output":"wildflower","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ice refrigerator","expected":"icebox","output":"cold storage","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"hangover river","expected":"hangrover","output":"the hangover","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"car moon","expected":"lunar rover","output":"drive-in theater","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"balloon wine","expected":"party","output":"balloon: helium","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fire pizza","expected":"oven","output":"wood-fired\n","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"space ship titanic","expected":"space titanic","output":"space ship titanic: travesty","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"dust fairy","expected":"pixie","output":"tinkerbell","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"electricity swamp","expected":"frankenstein","output":"shrek","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ash flying starfish","expected":"pikachu","output":"pokemon","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"snowman whale","expected":"snow whale","output":"frosty the snowman","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"ocean plant","expected":"coral","output":"seaweed","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dragon wine","expected":"drunken dragon","output":"fire and blood","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fjord goldfish","expected":"fjordfish","output":"viking.","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"mountain range perfume","expected":"cologne","output":"fragrance","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"space plant tsunami","expected":"space tsunami","output":"alien plant","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"pineapple tree","expected":"pine tree","output":"fruit","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"car helicopter","expected":"transformer","output":"transformers","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"pasta wind","expected":"flying spaghetti monster","output":"there is no specific association for \"pasta wind.\"","usage":{"prompt_tokens":56,"completion_tokens":11,"total_tokens":67}}
+{"input":"lily pop","expected":"lollipop","output":"flower","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ant marsh","expected":"ant hill","output":"ant man","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"komodo dragon tree","expected":"dragon tree","output":"komodo dragon","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"mud rat","expected":"mudrat","output":"splinter","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"christmas tree sand","expected":"sandy claus","output":"christmas tree.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust devil stone","expected":"ore","output":"desert","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"michigan water","expected":"great lakes","output":"great lakes.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"lake mummy","expected":"tutankhamun","output":"creature","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"angel sun","expected":"halo","output":"angel sunlight","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"cleaner water","expected":"washing machine","output":"water filtration","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fairy forest","expected":"elf","output":"enchanted creatures","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dandelion pinocchio","expected":"nose","output":"nose.","usage":{"prompt_tokens":59,"completion_tokens":3,"total_tokens":62}}
+{"input":"dna wind","expected":"evolution","output":"double helix","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"engine wind farm","expected":"wind turbine","output":"renewable energy","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fire light bulb","expected":"idea","output":"fireflies","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain sharknado","expected":"mountain shark","output":"sharknado.","usage":{"prompt_tokens":58,"completion_tokens":5,"total_tokens":63}}
+{"input":"moon mud","expected":"cheese","output":"astronauts","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"hanglider volcano","expected":"icarus","output":"hanglider: flying","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"fjord flying fish","expected":"flying fjord","output":"this is not a common phrase.","usage":{"prompt_tokens":58,"completion_tokens":7,"total_tokens":65}}
+{"input":"water water","expected":"lake","output":"h2o","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"mountain swamp thing","expected":"mountain thing","output":"swamp thing","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust storm tatooine","expected":"sand people","output":"star wars","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"damn lava","expected":"damnlava","output":"volcano","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"cyborg water","expected":"aquaman","output":"\"aquaman\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"china earth","expected":"great wall","output":"geography","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dust titan","expected":"atlas","output":"sandstorm","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"dragon forest","expected":"treant","output":"fantasy","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"glacier mountain dew","expected":"mountain dew glacier burst","output":"mountain dew","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"catholic church seaweed","expected":"popeye","output":"there is no direct association between \"catholic church\" and \"seaweed.\"","usage":{"prompt_tokens":58,"completion_tokens":17,"total_tokens":75}}
+{"input":"plant toast","expected":"cereal","output":"butter","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"lake odin","expected":"mjolnir","output":"norse mythology","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"carrot earth","expected":"vegetable","output":"veggie patch","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"stone whiskey","expected":"scotch","output":"rock'n'roll","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"car kelp","expected":"carp","output":"not associated.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"bog iceland","expected":"bogland","output":"swampy terrain","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"stew train","expected":"soup train","output":"there is no specific word or phrase that is associated with \"stew train.\"","usage":{"prompt_tokens":56,"completion_tokens":16,"total_tokens":72}}
+{"input":"message wind","expected":"whisper","output":"whisper in the wind","usage":{"prompt_tokens":55,"completion_tokens":5,"total_tokens":60}}
+{"input":"pyramid water","expected":"tomb","output":"sphinx","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"engine fridge","expected":"freezer","output":"motor.","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"diamond obsidian","expected":"onyx","output":"minecraft","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"king prince","expected":"queen","output":"royalty","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dandelion patch house","expected":"dandelion house","output":"the phrase associated with \"dandelion patch house\" is \"storybook cottage.\"","usage":{"prompt_tokens":58,"completion_tokens":16,"total_tokens":74}}
+{"input":"sun tornado","expected":"solar flare","output":"disaster movie","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"beach sun","expected":"vacation","output":"summer","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"ice volcano","expected":"ice cream","output":"frozen eruption","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"aphrodite sun","expected":"apollo","output":"associative word: greek mythology","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"telescope telescope","expected":"observatory","output":"observation","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"europe fire","expected":"greece","output":"not associated.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"plant wind","expected":"dandelion","output":"blowin' in the wind","usage":{"prompt_tokens":55,"completion_tokens":7,"total_tokens":62}}
+{"input":"mississippi mountain range","expected":"mississippi river","output":"no association detected.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"anemone ocean","expected":"clownfish","output":"finding nemo","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"feather water","expected":"pen","output":"duck","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"clay werewolf","expected":"werepot","output":"teen wolf","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"oxygen wish","expected":"breath","output":"genie","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"clean fog","expected":"clear","output":"visibility","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"windmill windmill","expected":"wind farm","output":"gorillaz","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"google mountain","expected":"google mountain view","output":"search engine","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"incense incense","expected":"perfume","output":"aroma","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"mud star wars","expected":"jar jar binks","output":"dagobah","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fire land shark","expected":"fire shark","output":"fire: burn","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"party wind","expected":"blowout","output":"party streamers","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"emerald volcano","expected":"green dragon","output":"catastrophic natural disaster","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"earth plate","expected":"dish","output":"tectonic plate","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"cactus ice","expected":"popsicle","output":"desert.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire planet","expected":"sun","output":"mustafar","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"ammonite fire","expected":"ammonia","output":"frances lee","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"cinderella mud","expected":"pumpkin","output":"glass slipper","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"honey water","expected":"meade","output":"sweet beverage.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"black hole water","expected":"drain","output":"the phrase associated with \"black hole water\" is not recognized.","usage":{"prompt_tokens":56,"completion_tokens":13,"total_tokens":69}}
+{"input":"drawing water","expected":"painting","output":"well.","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire virus","expected":"flu","output":"infection","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"earth farm","expected":"field","output":"agriculture","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"steampunk tree","expected":"steam tree","output":"victorian botanical garden","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"dandelion wine fog","expected":"foggy dandelion wine","output":"ray bradbury","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"beach camera","expected":"selfie","output":"vacation","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ocean yeti","expected":"sasquatch","output":"abominable snowman","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"terrorist tornado","expected":"terrornado","output":"sharknado","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"landslide steampunk","expected":"steamlandslide","output":"steampunk.","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"earth fog","expected":"mist","output":"silent hill","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"bob marley earth","expected":"reggae","output":"reggae","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"aspirin lake","expected":"saline","output":"pain relief.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"sun venus","expected":"mercury","output":"solar system","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dust solar flare","expected":"solar dust","output":"solar flare","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"bubbles tea","expected":"bubble tea","output":"bubble tea","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"pollen poseidon","expected":"nectar","output":"alliteration","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"ice dragon swamp","expected":"lich","output":"game of thrones","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"dust train","expected":"dustbin","output":"desert","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"bird dust","expected":"feather","output":"pixie dust","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"sandstorm stone","expected":"sphinx","output":"darude - \"sandstorm\"","usage":{"prompt_tokens":56,"completion_tokens":7,"total_tokens":63}}
+{"input":"boat firework","expected":"fireboat","output":"fourth of july","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"chainsaw water","expected":"sawfish","output":"texas chainsaw massacre","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"wish wood","expected":"pinocchio","output":"genie","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"dandelion turtle","expected":"tortoise","output":"there are no direct association between \"dandelion\" and \"turtle\".","usage":{"prompt_tokens":57,"completion_tokens":15,"total_tokens":72}}
+{"input":"apple pie flower","expected":"apple blossom","output":"apple pie is associated with a delicious dessert, and flower is associated with nature.","usage":{"prompt_tokens":56,"completion_tokens":16,"total_tokens":72}}
+{"input":"mountain range roll","expected":"rock and roll","output":"sushi.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"flying fish wind","expected":"airplane","output":"sailfin flying fish","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"dandelion frog","expected":"toad","output":"princess and the frog","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"fish tractor","expected":"trawler","output":"i'm sorry, \"fish tractor\" does not have a commonly recognized association.","usage":{"prompt_tokens":55,"completion_tokens":16,"total_tokens":71}}
+{"input":"fire dance steam","expected":"steam dance","output":"\"fire dance steam\" - firebender","usage":{"prompt_tokens":56,"completion_tokens":9,"total_tokens":65}}
+{"input":"campfire lake","expected":"s’more","output":"\"summer camp\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"los angeles mountain","expected":"hollywood","output":"hollywood hills","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"bog bong","expected":"bogart","output":"there is no association between \"bog bong.\"","usage":{"prompt_tokens":57,"completion_tokens":11,"total_tokens":68}}
+{"input":"vacuum water","expected":"sponge","output":"suck","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"dandelion patch island","expected":"dandelion island","output":"animal crossing","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"goose mountain","expected":"geese","output":"top gun","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"car fog","expected":"accident","output":"road","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"christmas tree seed","expected":"pine cone","output":"christmas tree farm.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"mud phoenix","expected":"bird","output":"mud","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"robot tornado","expected":"tornadobot","output":"disaster","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire goldfish","expected":"boiled fish","output":"flame-haired goldfish.","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"coral wind","expected":"coral reef","output":"aquaman","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"avalanche fire flower","expected":"fire blossom","output":"super mario","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"earth rice","expected":"paddy","output":"field","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"mountain mountain","expected":"mountain range","output":"climbing","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"car flower","expected":"carnation","output":"road trip","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"rain tornado","expected":"flood","output":"destructive storm","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"eagle mountain","expected":"condor","output":"mountain","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"mountain range party","expected":"mountain party","output":"rocky mountains","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust storm fish","expected":"sand shark","output":"mad max","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"moon olympus","expected":"artemis","output":"apollo","usage":{"prompt_tokens":57,"completion_tokens":1,"total_tokens":58}}
+{"input":"dust storm fence","expected":"sand fence","output":"mad max","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"planet steam turbine","expected":"power plant","output":"planet: earth","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"frog ocean","expected":"turtle","output":"kermit the frog.","usage":{"prompt_tokens":55,"completion_tokens":6,"total_tokens":61}}
+{"input":"giant mushroom weed","expected":"magic mushroom","output":"super mario.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"komodo dragon tornado","expected":"tornado dragon","output":"reptilian natural disaster","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"cinder statue","expected":"david","output":"glass","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"space station wind","expected":"space shuttle","output":"star wars","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"rocket tree","expected":"christmas","output":"there's no specific association between \"rocket\" and \"tree.\" could you provide more context or rephrase your input?","usage":{"prompt_tokens":55,"completion_tokens":24,"total_tokens":79}}
+{"input":"moon wind","expected":"werewolf","output":"sailor moon","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"pot river","expected":"potamus","output":"fishing.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"ash lens","expected":"camera","output":"pokémon","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mountain range nymph","expected":"mountain nymph","output":"mount olympus","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"smoke tarzan","expected":"jane","output":"jungle","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fire seaplane","expected":"fireplane","output":"water landing","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"dragon leviathan","expected":"tiamat","output":"sea emperor","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"drunken master mountain","expected":"jackie chan","output":"jackie chan","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"balloon paper","expected":"origami","output":"party decorations","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"snowman venus flytrap","expected":"snowtrap","output":"frosty the snowman","usage":{"prompt_tokens":59,"completion_tokens":6,"total_tokens":65}}
+{"input":"seed tractor","expected":"corn","output":"planting seeds.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"avalanche tire","expected":"snow tire","output":"snowball","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"bubbles dust","expected":"soap","output":"fairly oddparents","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"smoke zeppelin","expected":"led zeppelin","output":"led zeppelin","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"wall water","expected":"dam","output":"fountain","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"bullet dust","expected":"gun","output":"gunfight.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"bong water","expected":"bubbles","output":"marijuana","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"afternoon tea fire","expected":"scone","output":"burning passion","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"geysir mud","expected":"mud geyser","output":"volcanic eruption","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"cotton candy tornado","expected":"candy floss","output":"disaster circus","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"alcohol alcohol","expected":"beer","output":"drinks","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"camera plant","expected":"photograph","output":"the word associated with \"camera plant\" is \"surveillance.\"","usage":{"prompt_tokens":55,"completion_tokens":13,"total_tokens":68}}
+{"input":"fire hermit","expected":"wizard","output":"fire nation","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"kale wave","expected":"kaleid","output":"healthy trends","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ice cream water","expected":"milkshake","output":"frozen treat","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"smoke surf and turf","expected":"smoke on the water","output":"surf and turf","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"electricity lava","expected":"magma","output":"volcano","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"farm tea","expected":"tea plantation","output":"pitchfork","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire pluto","expected":"hades","output":"\"hot planet\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"carnivorous plant tornado","expected":"flying cow","output":"\"little shop of horrors\"","usage":{"prompt_tokens":59,"completion_tokens":7,"total_tokens":66}}
+{"input":"hawaii hula","expected":"luau","output":"grass skirt","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"prayer snowman","expected":"snow angel","output":"frosty the snowman","usage":{"prompt_tokens":57,"completion_tokens":6,"total_tokens":63}}
+{"input":"earth vacuum","expected":"black hole","output":"space","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"sand snowmobile","expected":"sandmobile","output":"desert safari","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"tractor wood","expected":"lumberjack","output":"farming.","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"steampunk tractor","expected":"steam tractor","output":"victorian futuristic machinery","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fire google","expected":"firefox","output":"search","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"fire fishbowl","expected":"goldfish","output":"fireball","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"fire hot","expected":"heat","output":"burns","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"bong incense","expected":"hippie","output":"marijuana","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"black hole moon","expected":"dark side","output":"interstellar.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"mud vinegar","expected":"mustard","output":"fermented.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"bird swamp","expected":"crane","output":"hogwarts","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"earth excalibur","expected":"king arthur","output":"king arthur","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"earth viking","expected":"berserker","output":"thor","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"dust system","expected":"computer","output":"vacuum cleaner","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"mountain paper boat","expected":"paper mountain","output":"origami","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"christmas tree flower","expected":"poinsettia","output":"christmas tree.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"fire tornado mars","expected":"mars tornado","output":"sci-fi disaster","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"earth europe","expected":"france","output":"continent","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"mega mushroom smoke","expected":"poison mushroom","output":"super mario bros.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"google swamp","expected":"goolge","output":"shrek","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"fire duck water","expected":"steam duck","output":"firefighter","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"fire microscope","expected":"virus","output":"under the dome.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"muddy wine weed","expected":"muddy weed","output":"muddy waters","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"egg fire","expected":"omelette","output":"dragon's breath.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"aloe plant","expected":"aloe vera","output":"soothing skin care","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"dust roll","expected":"bun","output":"lint roller","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"plant sashimi","expected":"salad","output":"invalid input.","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"hangover tornado","expected":"hangar","output":"the hangover","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"puddle town","expected":"puddletown","output":"rain.","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"plant statue of liberty","expected":"liberty tree","output":"statue of liberty","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fog house","expected":"haunted house","output":"silent hill","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"delta venus flytrap","expected":"delta venus","output":"the word associated with \"delta venus flytrap\" is \"venus flytrap\".","usage":{"prompt_tokens":58,"completion_tokens":17,"total_tokens":75}}
+{"input":"mummy window","expected":"bandage","output":"tomb.","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"blade smoke","expected":"ninja","output":"ninja","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"super volcano tornado","expected":"super tornado","output":"natural disaster","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"lake viking","expected":"odin","output":"boating","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"dust flour","expected":"cake","output":"baking","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"pegasus wind","expected":"flying horse","output":"flying horse","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"dust windshield","expected":"bug","output":"cleaning the windshield","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"engine mountain dew","expected":"mountain dew code red","output":"soda","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"lawnmower rocket","expected":"lawn rocket","output":"spacex","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dust romance","expected":"fairy tale","output":"the phrase \"dust romance\" does not have a clear association.","usage":{"prompt_tokens":56,"completion_tokens":14,"total_tokens":70}}
+{"input":"mountain pigpen","expected":"sty","output":"no association found.","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"earth prince","expected":"king","output":"avatar: the last airbender","usage":{"prompt_tokens":55,"completion_tokens":7,"total_tokens":62}}
+{"input":"obsidian windmill","expected":"grinder","output":"there is no specific association or reference point for the term \"obsidian windmill.\"","usage":{"prompt_tokens":57,"completion_tokens":17,"total_tokens":74}}
+{"input":"car wine","expected":"driving","output":"no correlation","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"car engine","expected":"racecar","output":"brum brum","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"snow rocket water","expected":"ice rocket","output":"\"snow\"","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"mud puddle","expected":"pig","output":"dirty water","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"tea wood","expected":"table","output":"tea garden","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"field mountain","expected":"valley","output":"hiking","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"mud whale","expected":"moby dick","output":"anime","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"lava super volcano","expected":"super lava","output":"explosive eruption","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"forest jungle","expected":"rainforest","output":"green ","usage":{"prompt_tokens":55,"completion_tokens":2,"total_tokens":57}}
+{"input":"kiln kiln","expected":"furnace","output":"pottery","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"lung puddle","expected":"pneumonia","output":"i'm sorry, \"lung puddle\" does not bring to mind any specific word or phrase. please provide more context or try again with a different input.","usage":{"prompt_tokens":56,"completion_tokens":32,"total_tokens":88}}
+{"input":"cinderella dust","expected":"ashes","output":"fairy godmother","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"fire station train","expected":"fire train","output":"choo choo soul","usage":{"prompt_tokens":56,"completion_tokens":5,"total_tokens":61}}
+{"input":"fire superplant","expected":"superweed","output":"fire flower from super mario.","usage":{"prompt_tokens":56,"completion_tokens":6,"total_tokens":62}}
+{"input":"dragon water","expected":"sea serpent","output":"game of thrones","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"moon dust water","expected":"lunar sea","output":"astronauts","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fire viking","expected":"thor","output":"valhalla.","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"lake swamp","expected":"marsh","output":"water","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"aztec water","expected":"chocolate","output":"sacred ","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"lake poke","expected":"pokedex","output":"i'm sorry, \"lake poke\" doesn't seem to be associated with any specific word or phrase.","usage":{"prompt_tokens":55,"completion_tokens":21,"total_tokens":76}}
+{"input":"kite mountain","expected":"eagle","output":"kite-flying","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"boulder leaf","expected":"moss","output":"sorry, i'm not sure what \"boulder leaf\" is referring to. could you please provide more context or clarify?","usage":{"prompt_tokens":56,"completion_tokens":25,"total_tokens":81}}
+{"input":"boulder lightning","expected":"fulgurite","output":"thor","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"tatooine tree","expected":"gungan","output":"star wars","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"landfill train","expected":"garbage","output":"waste","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"island moon","expected":"luna","output":"beach party","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"fart mud","expected":"methane","output":"flatulence","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"brick star","expected":"lego","output":"brick house","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"fjord viking","expected":"longboat","output":"norse mythology","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"mud seaweed","expected":"mudweed","output":"swamp thing","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"pig sandstorm","expected":"pigsty","output":"\"sandstorm\"","usage":{"prompt_tokens":56,"completion_tokens":4,"total_tokens":60}}
+{"input":"hurricane telescope","expected":"eye","output":"natural disasters","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"forest meade","expected":"robin hood","output":"forest whitaker","usage":{"prompt_tokens":56,"completion_tokens":3,"total_tokens":59}}
+{"input":"glass robot","expected":"android","output":"futuristic.","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"lake swan","expected":"leda","output":"beautiful wildlife","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"venus water","expected":"aphrodite","output":"planet","usage":{"prompt_tokens":56,"completion_tokens":1,"total_tokens":57}}
+{"input":"car vacuum","expected":"dustbuster","output":"cleaning","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"dust monster truck","expected":"dust truck","output":"monster truck","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"loch ness monster ship","expected":"sinking ship","output":"nessie","usage":{"prompt_tokens":58,"completion_tokens":3,"total_tokens":61}}
+{"input":"engine sandwich","expected":"sandwitch","output":"car","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"steampunk wall","expected":"steam wall","output":"gears","usage":{"prompt_tokens":57,"completion_tokens":2,"total_tokens":59}}
+{"input":"phoenix snowman","expected":"snow phoenix","output":"mythical creature.","usage":{"prompt_tokens":57,"completion_tokens":5,"total_tokens":62}}
+{"input":"jewel water","expected":"pearl","output":"gemini lake","usage":{"prompt_tokens":57,"completion_tokens":3,"total_tokens":60}}
+{"input":"ash dating","expected":"ashley","output":"pokemon","usage":{"prompt_tokens":55,"completion_tokens":1,"total_tokens":56}}
+{"input":"penguin tornado","expected":"taz","output":"happy feet","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"bog sand dragon","expected":"sand worm","output":"\"sand dragon\"","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"obsidian statue of liberty","expected":"liberty bell","output":"statue of liberty","usage":{"prompt_tokens":58,"completion_tokens":4,"total_tokens":62}}
+{"input":"tesla tornado","expected":"tesla coil","output":"tesla coil","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"coconut milk dandelion","expected":"dandelion milk","output":"plant-based dairy alternative","usage":{"prompt_tokens":59,"completion_tokens":4,"total_tokens":63}}
+{"input":"fjord volcano","expected":"iceland","output":"thor: ragnarok","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"boat racecar","expected":"speedboat","output":"watercraft","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"beach obsidian","expected":"black sand","output":"volcanic beaches","usage":{"prompt_tokens":57,"completion_tokens":4,"total_tokens":61}}
+{"input":"dandelion patch ketchup","expected":"dandelion sauce","output":"flower garden","usage":{"prompt_tokens":59,"completion_tokens":2,"total_tokens":61}}
+{"input":"lightning plane","expected":"b-52","output":"thunderbird","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"beach spy","expected":"james bond","output":"james bond","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"ash cheese","expected":"pizza","output":"pikachu","usage":{"prompt_tokens":55,"completion_tokens":3,"total_tokens":58}}
+{"input":"leaf solar","expected":"photosynthesis","output":"chlorophyll","usage":{"prompt_tokens":55,"completion_tokens":4,"total_tokens":59}}
+{"input":"fire noodle","expected":"ramen","output":"spicy","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"incense perfume","expected":"smell","output":"scent","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"engine mountain dew code red","expected":"red bull","output":"soda","usage":{"prompt_tokens":58,"completion_tokens":2,"total_tokens":60}}
+{"input":"dust bunny tree","expected":"dust tree","output":"there is no clear association between \"dust bunny tree\", would you like to provide more context or choose another phrase for me to assist you with?","usage":{"prompt_tokens":57,"completion_tokens":30,"total_tokens":87}}
+{"input":"lily vodka","expected":"gin","output":"flower cocktail","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
+{"input":"bush hurricane","expected":"katrina","output":"katrina","usage":{"prompt_tokens":56,"completion_tokens":2,"total_tokens":58}}
