@@ -1,4 +1,10 @@
 # element-craft-backend
+
+## Final Data Export
+
+https://drive.google.com/drive/folders/1tLH5GmHPn7IwlLsxKTJMLSjGJ2c7uQB4?usp=sharing
+
+
  
 https://partner.steamgames.com/doc/store/localization/languages
 
